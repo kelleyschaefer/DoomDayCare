@@ -8,7 +8,7 @@ Brief tutorial on how to use git
 
 - SETUP:
 	1. first install git on your machine if you havn't already (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-	2. Clone the repository to your local machine if you havn't already using this command: git clone 
+	2. Clone the repository to your local machine if you havn't already using this command: git clone https://github.com/kelleyschaefer/DoomDayCare.git
 		- Create a folder to clone the project to, you can call it 'capstone_prototype' for example
 		- For PC: Right click in the folder and select 'Git Bash Here'
 		- For Mac: using the terminal navigate to the folder you just created
