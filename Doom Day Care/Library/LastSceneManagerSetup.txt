@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/prototype.unity
+- path: Assets/Scenes/zombie_shooter_mini_game.unity
   isLoaded: 1
   isActive: 1
