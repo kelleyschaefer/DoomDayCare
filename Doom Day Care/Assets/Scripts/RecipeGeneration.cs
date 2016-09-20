@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEditor;
+using UnityEngine.UI;
 
 /*
  * For the time being, we can stick this script onto some object that starts the prototype.
@@ -12,6 +13,12 @@ using UnityEditor;
  * */
 
 public class RecipeGeneration : MonoBehaviour {
+
+    public Dropdown dropdownA;
+    public Dropdown dropdownP;
+    public Dropdown dropdownM;
+
+    private Sprite[] sprites;
 
 	//Scriptable object holding Monster object type (Not GameObject type) and collection of them for identification
 	//Monster object type holds the recipe necessary for creating the monster
@@ -42,7 +49,64 @@ public class RecipeGeneration : MonoBehaviour {
 		string[] rep = { "Eyeball", "Tentacle", "Something", "Something" };
 		Debug.Log(MC.fetchMonster (rep));
 
-	}
+        dropdownA.ClearOptions();
+        dropdownP.ClearOptions();
+        dropdownM.ClearOptions();
+
+        foreach (string s in MC.Animal)
+        {
+            dropdownA.options.Add(new Dropdown.OptionData() { text = s });
+        }
+        foreach (string s in MC.Plant)
+        {
+            dropdownP.options.Add(new Dropdown.OptionData() { text = s });
+        }
+        foreach (string s in MC.Mineral)
+        {
+            dropdownM.options.Add(new Dropdown.OptionData() { text = s });
+        }
+
+        dropdownA.value = 1;
+        dropdownM.value = 1;
+        dropdownP.value = 1;
+
+        sprites = Resources.LoadAll<Sprite>("sprites");
+
+    }
+
+    public void Combine()
+    {
+        string ing1 = dropdownA.options[dropdownA.value].text;
+        string ing2 = dropdownP.options[dropdownP.value].text;
+        string ing3 = dropdownM.options[dropdownM.value].text;
+        string[] recipe = { ing1, ing2, ing3 };
+        
+        Monster m = MC.fetchMonster(recipe);
+
+        if (m == null)
+        {
+            Debug.Log("None");
+        }
+        else
+        {
+            Image mImage = GameObject.Find("Monster/Image").GetComponent<Image>();
+            Debug.Log(m.Name + " ***Not actually what this is, most likely");
+            if(m.Name == "Chimera")
+            {
+                mImage.sprite = sprites[0];
+            }
+            else if(m.Name == "Beholder")
+            {
+                mImage.sprite = sprites[1];
+            }
+            else if (m.Name == "Phoenix")
+            {
+                mImage.sprite = sprites[2];
+            }
+        }
+
+        
+    }
 
 	/*
 
