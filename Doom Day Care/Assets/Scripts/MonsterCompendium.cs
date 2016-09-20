@@ -8,30 +8,35 @@ public class MonsterCompendium: ScriptableObject {
 	public string[] sideIngredients = {"Bones","Poop","Stone","Dirt","Mystery Meat", "Newt's Eye",
 		"Whisper Root", "Snickers Bar"};
 
+    public string[] Animal = {"Bones", "Newt's Eye", "Mystery Meat", "Eyeball", "Lizard Tail", "Lion Claw", "Feather", "Tentacle" };
+    public string[] Plant = {"Whisper Root", "Grass", "Poison Ivy", "Grave Mushroom", "Ivy" };
+    public string[] Mineral = {"Dirt", "Stone", "Flint", "Iron", "Crystal" };
+    public string[] Special = {"Fresh Soul", "Candy Bar", "Elemental Fire" };
+
 	public void InstantiateCompendium(){
 		
 		Monsters = new Monster[3];
-		Monster Chimera = new Monster ("Chimera", "Lizard Tail", "Lion Claw", sideIngredients[Random.Range(0,8)], sideIngredients[Random.Range(0,8)]);
-		Monster Phoenix = new Monster ("Phoenix", "Feather", "Flint and Steel", sideIngredients[Random.Range(0,8)], sideIngredients[Random.Range(0,8)]);
-		Monster Beholder = new Monster("Beholder", "Eyeball", "Tentacle", sideIngredients[Random.Range(0,8)], sideIngredients[Random.Range(0,8)]);
+		Monster Chimera = new Monster ("Chimera", "Lizard Tail", "Lion Claw", Animal[Random.Range(0,Animal.Length)], Mineral[Random.Range(0,Mineral.Length)]);
+		Monster Phoenix = new Monster ("Phoenix", "Feather", "Flint and Steel", Plant[Random.Range(0,Plant.Length)], Mineral[Random.Range(0,Mineral.Length)]);
+		Monster Beholder = new Monster("Beholder", "Eyeball", "Tentacle", Animal[Random.Range(0,Animal.Length)], Plant[Random.Range(0,Plant.Length)]);
 
 		Monsters [0] = Chimera;
 		Monsters [1] = Phoenix;
 		Monsters [2] = Beholder;
 	}
 
-	public string fetchMonster(string[] Recipe){
+	public Monster fetchMonster(string[] Recipe){
 		foreach (Monster m in Monsters) {
 			string[] temp = m.getRecipe ();
 			foreach (string s in temp) {
 				if (s == Recipe [0]) {
-					return m.Name;
+                    return m;
 				} 
 				else
 					break;
 			}
 		}
-		return "None";
+		return null;
 	}
 }
 
@@ -61,5 +66,20 @@ public class Monster{
 	public void setRecipe(string[] newRecipe){
 		Recipe = newRecipe;
 	}
+
+}
+
+public class Ingredient{
+
+    public string Name;
+    public string Category;
+    public int ID;
+
+    public Ingredient(string name, string category, int id){
+        Name = name;
+        Category = category;
+        ID = id;
+    }
+
 
 }
