@@ -1,0 +1,2803 @@
+fileFormatVersion: 2
+guid: 6d041d65bb0110f4b93ab5ca714202af
+timeCreated: 1475004368
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leaf_idle_0
+    21300002: leaf_idle_1
+    21300004: leaf_idle_2
+    21300006: leaf_idle_3
+    21300008: leaf_idle_4
+    21300010: leaf_idle_5
+    21300012: leaf_idle_6
+    21300014: leaf_idle_7
+    21300016: leaf_idle_8
+    21300018: leaf_idle_9
+    21300020: leaf_idle_10
+    21300022: leaf_idle_11
+    21300024: leaf_idle_12
+    21300026: leaf_idle_13
+    21300028: leaf_idle_14
+    21300030: leaf_idle_15
+    21300032: leaf_idle_16
+    21300034: leaf_idle_17
+    21300036: leaf_idle_18
+    21300038: leaf_idle_19
+    21300040: leaf_idle_20
+    21300042: leaf_idle_21
+    21300044: leaf_idle_22
+    21300046: leaf_idle_23
+    21300048: leaf_idle_24
+    21300050: leaf_idle_25
+    21300052: leaf_idle_26
+    21300054: leaf_idle_27
+    21300056: leaf_idle_28
+    21300058: leaf_idle_29
+    21300060: leaf_idle_30
+    21300062: leaf_idle_31
+    21300064: leaf_idle_32
+    21300066: leaf_idle_33
+    21300068: leaf_idle_34
+    21300070: leaf_idle_35
+    21300072: leaf_idle_36
+    21300074: leaf_idle_37
+    21300076: leaf_idle_38
+    21300078: leaf_idle_39
+    21300080: leaf_idle_40
+    21300082: leaf_idle_41
+    21300084: leaf_idle_42
+    21300086: leaf_idle_43
+    21300088: leaf_idle_44
+    21300090: leaf_idle_45
+    21300092: leaf_idle_46
+    21300094: leaf_idle_47
+    21300096: leaf_idle_48
+    21300098: leaf_idle_49
+    21300100: leaf_idle_50
+    21300102: leaf_idle_51
+    21300104: leaf_idle_52
+    21300106: leaf_idle_53
+    21300108: leaf_idle_54
+    21300110: leaf_idle_55
+    21300112: leaf_idle_56
+    21300114: leaf_idle_57
+    21300116: leaf_idle_58
+    21300118: leaf_idle_59
+    21300120: leaf_idle_60
+    21300122: leaf_idle_61
+    21300124: leaf_idle_62
+    21300126: leaf_idle_63
+    21300128: leaf_idle_64
+    21300130: leaf_idle_65
+    21300132: leaf_idle_66
+    21300134: leaf_idle_67
+    21300136: leaf_idle_68
+    21300138: leaf_idle_69
+    21300140: leaf_idle_70
+    21300142: leaf_idle_71
+    21300144: leaf_idle_72
+    21300146: leaf_idle_73
+    21300148: leaf_idle_74
+    21300150: leaf_idle_75
+    21300152: leaf_idle_76
+    21300154: leaf_idle_77
+    21300156: leaf_idle_78
+    21300158: leaf_idle_79
+    21300160: leaf_idle_80
+    21300162: leaf_idle_81
+    21300164: leaf_idle_82
+    21300166: leaf_idle_83
+    21300168: leaf_idle_84
+    21300170: leaf_idle_85
+    21300172: leaf_idle_86
+    21300174: leaf_idle_87
+    21300176: leaf_idle_88
+    21300178: leaf_idle_89
+    21300180: leaf_idle_90
+    21300182: leaf_idle_91
+    21300184: leaf_idle_92
+    21300186: leaf_idle_93
+    21300188: leaf_idle_94
+    21300190: leaf_idle_95
+    21300192: leaf_idle_96
+    21300194: leaf_idle_97
+    21300196: leaf_idle_98
+    21300198: leaf_idle_99
+    21300200: leaf_idle_100
+    21300202: leaf_idle_101
+    21300204: leaf_idle_102
+    21300206: leaf_idle_103
+    21300208: leaf_idle_104
+    21300210: leaf_idle_105
+    21300212: leaf_idle_106
+    21300214: leaf_idle_107
+    21300216: leaf_idle_108
+    21300218: leaf_idle_109
+    21300220: leaf_idle_110
+    21300222: leaf_idle_111
+    21300224: leaf_idle_112
+    21300226: leaf_idle_113
+    21300228: leaf_idle_114
+    21300230: leaf_idle_115
+    21300232: leaf_idle_116
+    21300234: leaf_idle_117
+    21300236: leaf_idle_118
+    21300238: leaf_idle_119
+    21300240: leaf_idle_120
+    21300242: leaf_idle_121
+    21300244: leaf_idle_122
+    21300246: leaf_idle_123
+    21300248: leaf_idle_124
+    21300250: leaf_idle_125
+    21300252: leaf_idle_126
+    21300254: leaf_idle_127
+    21300256: leaf_idle_128
+    21300258: leaf_idle_129
+    21300260: leaf_idle_130
+    21300262: leaf_idle_131
+    21300264: leaf_idle_132
+    21300266: leaf_idle_133
+    21300268: leaf_idle_134
+    21300270: leaf_idle_135
+    21300272: leaf_idle_136
+    21300274: leaf_idle_137
+    21300276: leaf_idle_138
+    21300278: leaf_idle_139
+    21300280: leaf_idle_140
+    21300282: leaf_idle_141
+    21300284: leaf_idle_142
+    21300286: leaf_idle_143
+    21300288: leaf_idle_144
+    21300290: leaf_idle_145
+    21300292: leaf_idle_146
+    21300294: leaf_idle_147
+    21300296: leaf_idle_148
+    21300298: leaf_idle_149
+    21300300: leaf_idle_150
+    21300302: leaf_idle_151
+    21300304: leaf_idle_152
+    21300306: leaf_idle_153
+    21300308: leaf_idle_154
+    21300310: leaf_idle_155
+    21300312: leaf_idle_156
+    21300314: leaf_idle_157
+    21300316: leaf_idle_158
+    21300318: leaf_idle_159
+    21300320: leaf_idle_160
+    21300322: leaf_idle_161
+    21300324: leaf_idle_162
+    21300326: leaf_idle_163
+    21300328: leaf_idle_164
+    21300330: leaf_idle_165
+    21300332: leaf_idle_166
+    21300334: leaf_idle_167
+    21300336: leaf_idle_168
+    21300338: leaf_idle_169
+    21300340: leaf_idle_170
+    21300342: leaf_idle_171
+    21300344: leaf_idle_172
+    21300346: leaf_idle_173
+    21300348: leaf_idle_174
+    21300350: leaf_idle_175
+    21300352: leaf_idle_176
+    21300354: leaf_idle_177
+    21300356: leaf_idle_178
+    21300358: leaf_idle_179
+    21300360: leaf_idle_180
+    21300362: leaf_idle_181
+    21300364: leaf_idle_182
+    21300366: leaf_idle_183
+    21300368: leaf_idle_184
+    21300370: leaf_idle_185
+    21300372: leaf_idle_186
+    21300374: leaf_idle_187
+    21300376: leaf_idle_188
+    21300378: leaf_idle_189
+    21300380: leaf_idle_190
+    21300382: leaf_idle_191
+    21300384: leaf_idle_192
+    21300386: leaf_idle_193
+    21300388: leaf_idle_194
+    21300390: leaf_idle_195
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaf_idle_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12919
+        width: 578
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_1
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 12919
+        width: 579
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 12919
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_3
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 12919
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_4
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 12919
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_5
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 12919
+        width: 578
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_6
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 12919
+        width: 576
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_7
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 12919
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_8
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 12919
+        width: 578
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_9
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 12919
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_10
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 12919
+        width: 576
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_11
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 12919
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_12
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 12919
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_13
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 12919
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_14
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 12919
+        width: 577
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_15
+      rect:
+        serializedVersion: 2
+        x: 10599
+        y: 12919
+        width: 576
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12116
+        width: 578
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_17
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 12116
+        width: 577
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 12116
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_19
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 12116
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_20
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 12116
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_21
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 12116
+        width: 578
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_22
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 12116
+        width: 576
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_23
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 12116
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_24
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 12116
+        width: 579
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_25
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 12116
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_26
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 12116
+        width: 576
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_27
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 12116
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_28
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 12116
+        width: 577
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_29
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 12116
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_30
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 12116
+        width: 577
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_31
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 12116
+        width: 580
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11319
+        width: 578
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 11319
+        width: 579
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_34
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 11319
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_35
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 11319
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_36
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 11319
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_37
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 11319
+        width: 578
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_38
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 11319
+        width: 576
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_39
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 11319
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_40
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 11319
+        width: 578
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_41
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 11319
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_42
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 11319
+        width: 576
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_43
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 11319
+        width: 577
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_44
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 11319
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_45
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 11319
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_46
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 11319
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_47
+      rect:
+        serializedVersion: 2
+        x: 10599
+        y: 11319
+        width: 576
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10516
+        width: 578
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_49
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 10516
+        width: 579
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_50
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 10516
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_51
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 10516
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_52
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 10516
+        width: 577
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_53
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 10516
+        width: 577
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_54
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 10516
+        width: 577
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_55
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 10516
+        width: 577
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_56
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 10516
+        width: 579
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_57
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 10516
+        width: 577
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_58
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 10516
+        width: 576
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_59
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 10516
+        width: 577
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_60
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 10516
+        width: 577
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_61
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 10516
+        width: 577
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_62
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 10516
+        width: 577
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_63
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 10516
+        width: 580
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9719
+        width: 578
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_65
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 9719
+        width: 579
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_66
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_67
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_68
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_69
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 9719
+        width: 578
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_70
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 9719
+        width: 576
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_71
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_72
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_73
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_74
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 9719
+        width: 576
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_75
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_76
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_77
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_78
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 9719
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_79
+      rect:
+        serializedVersion: 2
+        x: 10599
+        y: 9719
+        width: 577
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8915
+        width: 578
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_81
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 8915
+        width: 576
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_82
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 8915
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_83
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 8915
+        width: 577
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_84
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 8915
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_85
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 8915
+        width: 578
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_86
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 8915
+        width: 576
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_87
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 8915
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_88
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 8915
+        width: 578
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_89
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 8915
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_90
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 8915
+        width: 576
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_91
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 8915
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_92
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 8916
+        width: 577
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_93
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 8915
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_94
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 8915
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_95
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 8915
+        width: 580
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8118
+        width: 578
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_97
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 8118
+        width: 579
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_98
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 8118
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_99
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 8118
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_100
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 8118
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_101
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 8118
+        width: 578
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_102
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 8118
+        width: 576
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_103
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 8118
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_104
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 8118
+        width: 579
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_105
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 8118
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_106
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 8118
+        width: 576
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_107
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 8118
+        width: 577
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_108
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 8118
+        width: 577
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_109
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 8118
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_110
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 8118
+        width: 577
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_111
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 8118
+        width: 579
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7315
+        width: 578
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_113
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 7315
+        width: 576
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_114
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 7315
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_115
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 7316
+        width: 577
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_116
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 7315
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_117
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 7315
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_118
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 7315
+        width: 576
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_119
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 7315
+        width: 577
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_120
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 7315
+        width: 579
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_121
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 7315
+        width: 577
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_122
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 7315
+        width: 576
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_123
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 7315
+        width: 577
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_124
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 7315
+        width: 577
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_125
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 7315
+        width: 577
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_126
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 7315
+        width: 577
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_127
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 7315
+        width: 580
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 6518
+        width: 578
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_129
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 6518
+        width: 579
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_130
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 6518
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_131
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 6518
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_132
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 6518
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_133
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 6518
+        width: 578
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_134
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 6518
+        width: 576
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_135
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 6518
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_136
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 6518
+        width: 578
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_137
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 6518
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_138
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 6518
+        width: 576
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_139
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 6518
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_140
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 6518
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_141
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 6518
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_142
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 6518
+        width: 582
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_143
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 6518
+        width: 581
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5715
+        width: 584
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_145
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 5715
+        width: 588
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_146
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 5715
+        width: 584
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_147
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 5716
+        width: 590
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_148
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 5715
+        width: 584
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_149
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 5716
+        width: 590
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_150
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 5715
+        width: 584
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_151
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 5716
+        width: 584
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_152
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 5715
+        width: 580
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_153
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 5715
+        width: 581
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_154
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 5716
+        width: 579
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_155
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 5715
+        width: 574
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_156
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 5716
+        width: 577
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_157
+      rect:
+        serializedVersion: 2
+        x: 9192
+        y: 5715
+        width: 577
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_158
+      rect:
+        serializedVersion: 2
+        x: 9889
+        y: 5716
+        width: 584
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_159
+      rect:
+        serializedVersion: 2
+        x: 10586
+        y: 5715
+        width: 584
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4917
+        width: 589
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_161
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 4917
+        width: 590
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_162
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 4917
+        width: 590
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_163
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 4917
+        width: 590
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_164
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 4917
+        width: 594
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_165
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 4917
+        width: 593
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_166
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 4917
+        width: 591
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_167
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 4917
+        width: 593
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_168
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 4917
+        width: 590
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_169
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 4917
+        width: 593
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_170
+      rect:
+        serializedVersion: 2
+        x: 7081
+        y: 4917
+        width: 590
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_171
+      rect:
+        serializedVersion: 2
+        x: 7784
+        y: 4917
+        width: 588
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_172
+      rect:
+        serializedVersion: 2
+        x: 8488
+        y: 4917
+        width: 584
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_173
+      rect:
+        serializedVersion: 2
+        x: 9186
+        y: 4917
+        width: 583
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_174
+      rect:
+        serializedVersion: 2
+        x: 9889
+        y: 4917
+        width: 583
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_175
+      rect:
+        serializedVersion: 2
+        x: 10586
+        y: 4917
+        width: 584
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_176
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4121
+        width: 582
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_177
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 4121
+        width: 604
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_178
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4117
+        width: 584
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_179
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 4121
+        width: 526
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_180
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 4117
+        width: 432
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_181
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 4121
+        width: 471
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_182
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 4117
+        width: 505
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_183
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 4121
+        width: 531
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_184
+      rect:
+        serializedVersion: 2
+        x: 5706
+        y: 4121
+        width: 558
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_185
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 4121
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_186
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 4121
+        width: 576
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_187
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 4117
+        width: 577
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_188
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 4121
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_189
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 4117
+        width: 577
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_190
+      rect:
+        serializedVersion: 2
+        x: 9896
+        y: 4121
+        width: 577
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_191
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 4117
+        width: 580
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3317
+        width: 578
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_193
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3317
+        width: 579
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_194
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 3317
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaf_idle_195
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 3317
+        width: 577
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
