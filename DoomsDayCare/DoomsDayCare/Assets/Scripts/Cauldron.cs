@@ -1,7 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Cauldron : MonoBehaviour {
+public class Cauldron : MonoBehaviour
+{
+
+    public GameObject player;
+    public GameObject MonsterList;
 
 	// Use this for initialization
 	void Start () {
@@ -12,4 +16,6 @@ public class Cauldron : MonoBehaviour {
 	void Update () {
 	
 	}
+
+
 }

@@ -5,19 +5,44 @@ public class PlayerMovement : MonoBehaviour
 {
 
     private float speed = 5.0f;
-    //public GameObject manager;
+    public GameObject mixing_menu;
+    private Vector3 onscreen;
 
-    //void OnCollisionEnter2D(Collision2D coll)
-    //{
-    //    if (coll.gameObject.layer == LayerMask.NameToLayer("Cauldron"))
-    //    {
-    //        manager.GetComponent<test_manager>().OpenCauldron();
-    //    }
-    //}
+    void OnCollisionEnter2D(Collision2D coll)
+    {
+        if (coll.gameObject.layer == LayerMask.NameToLayer("Cauldron"))
+        {
+            Open_Cauldron();
+        }
+    }
+
+    void OnGUI()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Close_Cauldron();
+        }
+    }
+
+    void Start()
+    {
+        onscreen = mixing_menu.transform.localPosition;
+        Close_Cauldron();
+    }
 
     void Update()
     {
         Move();
+    }
+
+    private void Open_Cauldron()
+    {
+        mixing_menu.transform.localPosition = onscreen;
+    }
+
+    private void Close_Cauldron()
+    {
+        mixing_menu.transform.localPosition = new Vector3(1000, 1000, 0);
     }
 
     private void Move()
