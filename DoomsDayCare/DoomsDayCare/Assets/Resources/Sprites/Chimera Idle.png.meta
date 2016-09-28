@@ -1,0 +1,2075 @@
+fileFormatVersion: 2
+guid: 7f0da4e2b08f90140a3092f6996c4fee
+timeCreated: 1475100542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chimera Idle_0
+    21300002: Chimera Idle_1
+    21300004: Chimera Idle_2
+    21300006: Chimera Idle_3
+    21300008: Chimera Idle_4
+    21300010: Chimera Idle_5
+    21300012: Chimera Idle_6
+    21300014: Chimera Idle_7
+    21300016: Chimera Idle_8
+    21300018: Chimera Idle_9
+    21300020: Chimera Idle_10
+    21300022: Chimera Idle_11
+    21300024: Chimera Idle_12
+    21300026: Chimera Idle_13
+    21300028: Chimera Idle_14
+    21300030: Chimera Idle_15
+    21300032: Chimera Idle_16
+    21300034: Chimera Idle_17
+    21300036: Chimera Idle_18
+    21300038: Chimera Idle_19
+    21300040: Chimera Idle_20
+    21300042: Chimera Idle_21
+    21300044: Chimera Idle_22
+    21300046: Chimera Idle_23
+    21300048: Chimera Idle_24
+    21300050: Chimera Idle_25
+    21300052: Chimera Idle_26
+    21300054: Chimera Idle_27
+    21300056: Chimera Idle_28
+    21300058: Chimera Idle_29
+    21300060: Chimera Idle_30
+    21300062: Chimera Idle_31
+    21300064: Chimera Idle_32
+    21300066: Chimera Idle_33
+    21300068: Chimera Idle_34
+    21300070: Chimera Idle_35
+    21300072: Chimera Idle_36
+    21300074: Chimera Idle_37
+    21300076: Chimera Idle_38
+    21300078: Chimera Idle_39
+    21300080: Chimera Idle_40
+    21300082: Chimera Idle_41
+    21300084: Chimera Idle_42
+    21300086: Chimera Idle_43
+    21300088: Chimera Idle_44
+    21300090: Chimera Idle_45
+    21300092: Chimera Idle_46
+    21300094: Chimera Idle_47
+    21300096: Chimera Idle_48
+    21300098: Chimera Idle_49
+    21300100: Chimera Idle_50
+    21300102: Chimera Idle_51
+    21300104: Chimera Idle_52
+    21300106: Chimera Idle_53
+    21300108: Chimera Idle_54
+    21300110: Chimera Idle_55
+    21300112: Chimera Idle_56
+    21300114: Chimera Idle_57
+    21300116: Chimera Idle_58
+    21300118: Chimera Idle_59
+    21300120: Chimera Idle_60
+    21300122: Chimera Idle_61
+    21300124: Chimera Idle_62
+    21300126: Chimera Idle_63
+    21300128: Chimera Idle_64
+    21300130: Chimera Idle_65
+    21300132: Chimera Idle_66
+    21300134: Chimera Idle_67
+    21300136: Chimera Idle_68
+    21300138: Chimera Idle_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Chimera Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 28}
+        - {x: -32, y: 63}
+        - {x: -84, y: 63}
+        - {x: -114, y: -42}
+        - {x: -114, y: -94}
+        - {x: -112, y: -99}
+        - {x: -81, y: -112}
+        - {x: 92, y: -112}
+        - {x: 110, y: -103}
+        - {x: 110, y: 11}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 47}
+        - {x: -29, y: 49}
+        - {x: -32, y: 48}
+    - name: Chimera Idle_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 63}
+        - {x: -71.5, y: 63}
+        - {x: -79.5, y: 56}
+        - {x: -80.5, y: 50}
+        - {x: -112.5, y: -31}
+        - {x: -113.5, y: -35}
+        - {x: -113.5, y: -98}
+        - {x: -63.5, y: -112}
+        - {x: 98.5, y: -112}
+        - {x: 111.5, y: -81}
+        - {x: 111.5, y: 14}
+        - {x: 102.5, y: 30}
+      - - {x: -31.5, y: 44}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 50}
+        - {x: -31.5, y: 49}
+    - name: Chimera Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 28}
+        - {x: -32, y: 63}
+        - {x: -84, y: 63}
+        - {x: -114, y: -42}
+        - {x: -114, y: -94}
+        - {x: -112, y: -99}
+        - {x: -81, y: -112}
+        - {x: 92, y: -112}
+        - {x: 110, y: -103}
+        - {x: 110, y: 11}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 47}
+        - {x: -29, y: 49}
+        - {x: -32, y: 48}
+    - name: Chimera Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 63}
+        - {x: -71.5, y: 63}
+        - {x: -79.5, y: 56}
+        - {x: -80.5, y: 50}
+        - {x: -112.5, y: -31}
+        - {x: -113.5, y: -35}
+        - {x: -113.5, y: -98}
+        - {x: -63.5, y: -112}
+        - {x: 98.5, y: -112}
+        - {x: 111.5, y: -81}
+        - {x: 111.5, y: 14}
+        - {x: 102.5, y: 30}
+      - - {x: -31.5, y: 44}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 50}
+        - {x: -31.5, y: 49}
+    - name: Chimera Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 28}
+        - {x: -32, y: 63}
+        - {x: -84, y: 63}
+        - {x: -114, y: -42}
+        - {x: -114, y: -94}
+        - {x: -112, y: -99}
+        - {x: -81, y: -112}
+        - {x: 92, y: -112}
+        - {x: 110, y: -103}
+        - {x: 110, y: 11}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 47}
+        - {x: -29, y: 49}
+        - {x: -32, y: 48}
+    - name: Chimera Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 63}
+        - {x: -71.5, y: 63}
+        - {x: -79.5, y: 56}
+        - {x: -80.5, y: 50}
+        - {x: -112.5, y: -31}
+        - {x: -113.5, y: -35}
+        - {x: -113.5, y: -98}
+        - {x: -63.5, y: -112}
+        - {x: 98.5, y: -112}
+        - {x: 111.5, y: -81}
+        - {x: 111.5, y: 14}
+        - {x: 102.5, y: 30}
+      - - {x: -31.5, y: 44}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 50}
+        - {x: -31.5, y: 49}
+    - name: Chimera Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 28}
+        - {x: -26, y: 63}
+        - {x: -93, y: 63}
+        - {x: -114, y: 20}
+        - {x: -114, y: -101}
+        - {x: -91, y: -112}
+        - {x: 87, y: -112}
+        - {x: 98, y: -96}
+        - {x: 110, y: -58}
+        - {x: 110, y: 11}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 47}
+        - {x: -29, y: 49}
+        - {x: -32, y: 48}
+    - name: Chimera Idle_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 36}
+        - {x: -30.5, y: 63}
+        - {x: -87.5, y: 63}
+        - {x: -101.5, y: 59}
+        - {x: -113.5, y: -8}
+        - {x: -113.5, y: -95}
+        - {x: -54.5, y: -112}
+        - {x: 98.5, y: -112}
+        - {x: 111.5, y: -81}
+        - {x: 111.5, y: 14}
+        - {x: 102.5, y: 30}
+      - - {x: -31.5, y: 44}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 50}
+        - {x: -31.5, y: 49}
+    - name: Chimera Idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 43.5}
+        - {x: -46, y: 63.5}
+        - {x: -84, y: 63.5}
+        - {x: -114, y: -46.5}
+        - {x: -114, y: -79.5}
+        - {x: -97, y: -95.5}
+        - {x: -52, y: -103.5}
+        - {x: -10, y: -110.5}
+        - {x: 96, y: -110.5}
+        - {x: 110, y: -64.5}
+        - {x: 110, y: 6.5}
+        - {x: 107, y: 33.5}
+      - - {x: -32, y: 43.5}
+        - {x: -30, y: 41.5}
+        - {x: -27, y: 42.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 63.5}
+        - {x: -87.5, y: 54.5}
+        - {x: -113.5, y: -30.5}
+        - {x: -113.5, y: -78.5}
+        - {x: -95.5, y: -97.5}
+        - {x: -20.5, y: -104.5}
+        - {x: -0.5, y: -110.5}
+        - {x: 106.5, y: -110.5}
+        - {x: 111.5, y: -95.5}
+        - {x: 111.5, y: 40.5}
+        - {x: -3.5, y: 63.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 43.5}
+        - {x: -46, y: 63.5}
+        - {x: -84, y: 63.5}
+        - {x: -114, y: -46.5}
+        - {x: -114, y: -79.5}
+        - {x: -97, y: -95.5}
+        - {x: -52, y: -103.5}
+        - {x: -10, y: -110.5}
+        - {x: 96, y: -110.5}
+        - {x: 110, y: -64.5}
+        - {x: 110, y: 6.5}
+        - {x: 107, y: 33.5}
+      - - {x: -32, y: 43.5}
+        - {x: -30, y: 41.5}
+        - {x: -27, y: 42.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 63.5}
+        - {x: -71.5, y: 63.5}
+        - {x: -89.5, y: 55.5}
+        - {x: -113.5, y: 2.5}
+        - {x: -113.5, y: -90.5}
+        - {x: -71.5, y: -110.5}
+        - {x: 92.5, y: -110.5}
+        - {x: 106.5, y: -92.5}
+        - {x: 111.5, y: -52.5}
+        - {x: 111.5, y: 35.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 63.5}
+        - {x: -86, y: 42.5}
+        - {x: -114, y: -49.5}
+        - {x: -114, y: -83.5}
+        - {x: -100, y: -103.5}
+        - {x: -55, y: -110.5}
+        - {x: 101, y: -110.5}
+        - {x: 110, y: -71.5}
+        - {x: 110, y: 43.5}
+        - {x: 7, y: 63.5}
+      - - {x: -32, y: 43.5}
+        - {x: -30, y: 41.5}
+        - {x: -27, y: 42.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 63.5}
+        - {x: -71.5, y: 63.5}
+        - {x: -89.5, y: 55.5}
+        - {x: -113.5, y: 2.5}
+        - {x: -113.5, y: -90.5}
+        - {x: -71.5, y: -110.5}
+        - {x: 92.5, y: -110.5}
+        - {x: 106.5, y: -92.5}
+        - {x: 111.5, y: -52.5}
+        - {x: 111.5, y: 35.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 63.5}
+        - {x: -85, y: 42.5}
+        - {x: -114, y: -49.5}
+        - {x: -114, y: -83.5}
+        - {x: -100, y: -103.5}
+        - {x: -55, y: -110.5}
+        - {x: 101, y: -110.5}
+        - {x: 110, y: -71.5}
+        - {x: 110, y: 38.5}
+        - {x: -6, y: 63.5}
+      - - {x: -32, y: 43.5}
+        - {x: -30, y: 41.5}
+        - {x: -27, y: 42.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 63.5}
+        - {x: -85.5, y: 63.5}
+        - {x: -113.5, y: -29.5}
+        - {x: -113.5, y: -78.5}
+        - {x: -95.5, y: -97.5}
+        - {x: -20.5, y: -104.5}
+        - {x: 0.5, y: -110.5}
+        - {x: 104.5, y: -110.5}
+        - {x: 111.5, y: -79.5}
+        - {x: 111.5, y: 34.5}
+        - {x: -20.5, y: 54.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 63}
+        - {x: -73, y: 63}
+        - {x: -90, y: 55}
+        - {x: -114, y: -52}
+        - {x: -114, y: -82}
+        - {x: -102, y: -89}
+        - {x: -56, y: -104}
+        - {x: -9, y: -112}
+        - {x: 95, y: -112}
+        - {x: 110, y: -76}
+        - {x: 110, y: 18}
+        - {x: 104, y: 33}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 47}
+        - {x: -29, y: 49}
+        - {x: -32, y: 48}
+    - name: Chimera Idle_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 63}
+        - {x: -84.5, y: 63}
+        - {x: -113.5, y: -34}
+        - {x: -113.5, y: -87}
+        - {x: -72.5, y: -112}
+        - {x: 95.5, y: -112}
+        - {x: 111.5, y: -87}
+        - {x: 111.5, y: 21}
+        - {x: 7.5, y: 42}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 63}
+        - {x: -77, y: 63}
+        - {x: -88, y: 54}
+        - {x: -114, y: -54}
+        - {x: -114, y: -82}
+        - {x: -102, y: -89}
+        - {x: -56, y: -104}
+        - {x: -9, y: -112}
+        - {x: 95, y: -112}
+        - {x: 110, y: -76}
+        - {x: 110, y: 34}
+        - {x: 108, y: 39}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 47}
+        - {x: -29, y: 49}
+        - {x: -32, y: 48}
+    - name: Chimera Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 63}
+        - {x: -84.5, y: 63}
+        - {x: -113.5, y: -34}
+        - {x: -113.5, y: -87}
+        - {x: -72.5, y: -112}
+        - {x: 95.5, y: -112}
+        - {x: 111.5, y: -87}
+        - {x: 111.5, y: 21}
+        - {x: 7.5, y: 42}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 63}
+        - {x: -81, y: 63}
+        - {x: -84, y: 53}
+        - {x: -114, y: -56}
+        - {x: -114, y: -82}
+        - {x: -102, y: -89}
+        - {x: -56, y: -104}
+        - {x: -9, y: -112}
+        - {x: 95, y: -112}
+        - {x: 110, y: -76}
+        - {x: 110, y: 18}
+        - {x: 104, y: 33}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 47}
+        - {x: -29, y: 49}
+        - {x: -32, y: 48}
+    - name: Chimera Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 40}
+        - {x: -46.5, y: 63}
+        - {x: -85.5, y: 63}
+        - {x: -113.5, y: -32}
+        - {x: -113.5, y: -87}
+        - {x: -72.5, y: -112}
+        - {x: 95.5, y: -112}
+        - {x: 111.5, y: -87}
+        - {x: 111.5, y: 19}
+        - {x: 101.5, y: 22}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 63}
+        - {x: -72, y: 63}
+        - {x: -90, y: 55}
+        - {x: -114, y: -52}
+        - {x: -114, y: -82}
+        - {x: -102, y: -89}
+        - {x: -56, y: -104}
+        - {x: -9, y: -112}
+        - {x: 95, y: -112}
+        - {x: 110, y: -76}
+        - {x: 110, y: 18}
+        - {x: 104, y: 33}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 47}
+        - {x: -29, y: 49}
+        - {x: -32, y: 48}
+    - name: Chimera Idle_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 63}
+        - {x: -84.5, y: 63}
+        - {x: -113.5, y: -34}
+        - {x: -113.5, y: -87}
+        - {x: -72.5, y: -112}
+        - {x: 95.5, y: -112}
+        - {x: 111.5, y: -87}
+        - {x: 111.5, y: 21}
+        - {x: 7.5, y: 42}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 40.5}
+        - {x: -3, y: 63.5}
+        - {x: -83, y: 63.5}
+        - {x: -114, y: -2.5}
+        - {x: -114, y: -86.5}
+        - {x: -84, y: -110.5}
+        - {x: 87, y: -110.5}
+        - {x: 95, y: -100.5}
+        - {x: 110, y: -72.5}
+        - {x: 110, y: 29.5}
+      - - {x: -32, y: 43.5}
+        - {x: -30, y: 41.5}
+        - {x: -27, y: 42.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 63.5}
+        - {x: -76.5, y: 63.5}
+        - {x: -86.5, y: 39.5}
+        - {x: -113.5, y: -55.5}
+        - {x: -113.5, y: -90.5}
+        - {x: -54.5, y: -102.5}
+        - {x: -36.5, y: -110.5}
+        - {x: 108.5, y: -110.5}
+        - {x: 111.5, y: -73.5}
+        - {x: 111.5, y: 32.5}
+        - {x: 2.5, y: 51.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 38.5}
+        - {x: 9, y: 53.5}
+        - {x: -41, y: 63.5}
+        - {x: -95, y: 63.5}
+        - {x: -114, y: 12.5}
+        - {x: -114, y: -86.5}
+        - {x: -84, y: -110.5}
+        - {x: 87, y: -110.5}
+        - {x: 95, y: -100.5}
+        - {x: 110, y: -72.5}
+        - {x: 110, y: 19.5}
+      - - {x: -32, y: 43.5}
+        - {x: -30, y: 41.5}
+        - {x: -27, y: 42.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 63.5}
+        - {x: -81.5, y: 63.5}
+        - {x: -84.5, y: 61.5}
+        - {x: -113.5, y: -51.5}
+        - {x: -113.5, y: -91.5}
+        - {x: -55.5, y: -110.5}
+        - {x: 105.5, y: -110.5}
+        - {x: 111.5, y: -61.5}
+        - {x: 111.5, y: 29.5}
+        - {x: 1.5, y: 50.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 40.5}
+        - {x: -3, y: 63.5}
+        - {x: -83, y: 63.5}
+        - {x: -114, y: -2.5}
+        - {x: -114, y: -86.5}
+        - {x: -84, y: -110.5}
+        - {x: 87, y: -110.5}
+        - {x: 95, y: -100.5}
+        - {x: 110, y: -72.5}
+        - {x: 110, y: 29.5}
+      - - {x: -32, y: 43.5}
+        - {x: -30, y: 41.5}
+        - {x: -27, y: 42.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 63.5}
+        - {x: -76.5, y: 63.5}
+        - {x: -86.5, y: 39.5}
+        - {x: -113.5, y: -55.5}
+        - {x: -113.5, y: -90.5}
+        - {x: -54.5, y: -102.5}
+        - {x: -36.5, y: -110.5}
+        - {x: 108.5, y: -110.5}
+        - {x: 111.5, y: -73.5}
+        - {x: 111.5, y: 32.5}
+        - {x: 2.5, y: 51.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_30
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 38.5}
+        - {x: -45, y: 63.5}
+        - {x: -83, y: 63.5}
+        - {x: -114, y: -2.5}
+        - {x: -114, y: -92.5}
+        - {x: -96, y: -110.5}
+        - {x: 98, y: -110.5}
+        - {x: 107, y: -108.5}
+        - {x: 110, y: -96.5}
+        - {x: 110, y: 21.5}
+        - {x: 107, y: 37.5}
+      - - {x: -32, y: 43.5}
+        - {x: -30, y: 41.5}
+        - {x: -27, y: 42.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 63.5}
+        - {x: -79.5, y: 63.5}
+        - {x: -83.5, y: 62.5}
+        - {x: -113.5, y: -52.5}
+        - {x: -113.5, y: -91.5}
+        - {x: -55.5, y: -110.5}
+        - {x: 105.5, y: -110.5}
+        - {x: 111.5, y: -61.5}
+        - {x: 111.5, y: 29.5}
+        - {x: 2.5, y: 51.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -112}
+        - {x: 86, y: -112}
+        - {x: 97, y: -108}
+        - {x: 110, y: -56}
+        - {x: 110, y: -7}
+        - {x: 107, y: 11}
+        - {x: 100, y: 21}
+        - {x: 16, y: 63}
+        - {x: -108, y: 63}
+        - {x: -114, y: 58}
+        - {x: -114, y: -112}
+        - {x: 73, y: -112}
+        - {x: 74, y: -110}
+        - {x: 75, y: -105}
+        - {x: 78, y: -105}
+        - {x: 75, y: -107}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 63}
+        - {x: -86.5, y: 63}
+        - {x: -97.5, y: 59}
+        - {x: -113.5, y: -26}
+        - {x: -113.5, y: -101}
+        - {x: -37.5, y: -112}
+        - {x: 102.5, y: -112}
+        - {x: 111.5, y: -86}
+        - {x: 111.5, y: 20}
+        - {x: 8.5, y: 47}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -112}
+        - {x: 86, y: -112}
+        - {x: 97, y: -108}
+        - {x: 110, y: -56}
+        - {x: 110, y: -7}
+        - {x: 107, y: 11}
+        - {x: 100, y: 21}
+        - {x: 96, y: 21}
+        - {x: 94, y: 19}
+        - {x: 23, y: 63}
+        - {x: -114, y: 63}
+        - {x: -114, y: -94}
+        - {x: -75, y: -112}
+        - {x: 71, y: -112}
+        - {x: 74, y: -110}
+        - {x: 75, y: -105}
+        - {x: 78, y: -105}
+        - {x: 75, y: -107}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 63}
+        - {x: -86.5, y: 63}
+        - {x: -97.5, y: 59}
+        - {x: -113.5, y: -26}
+        - {x: -113.5, y: -101}
+        - {x: -37.5, y: -112}
+        - {x: 102.5, y: -112}
+        - {x: 111.5, y: -86}
+        - {x: 111.5, y: 20}
+        - {x: 8.5, y: 47}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -112}
+        - {x: 86, y: -112}
+        - {x: 97, y: -108}
+        - {x: 110, y: -56}
+        - {x: 110, y: -7}
+        - {x: 107, y: 11}
+        - {x: 100, y: 21}
+        - {x: 15, y: 61}
+        - {x: 10, y: 63}
+        - {x: -114, y: 63}
+        - {x: -114, y: -94}
+        - {x: -75, y: -112}
+        - {x: 71, y: -112}
+        - {x: 74, y: -110}
+        - {x: 75, y: -105}
+        - {x: 78, y: -105}
+        - {x: 75, y: -107}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 63}
+        - {x: -113.5, y: -29}
+        - {x: -113.5, y: -102}
+        - {x: -54.5, y: -109}
+        - {x: -35.5, y: -112}
+        - {x: 102.5, y: -112}
+        - {x: 111.5, y: -86}
+        - {x: 111.5, y: 21}
+        - {x: -45.5, y: 63}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -112}
+        - {x: 86, y: -112}
+        - {x: 97, y: -108}
+        - {x: 110, y: -56}
+        - {x: 110, y: -7}
+        - {x: 107, y: 11}
+        - {x: 80, y: 63}
+        - {x: -114, y: 63}
+        - {x: -114, y: -109}
+        - {x: -112, y: -109}
+        - {x: -83, y: -112}
+        - {x: 73, y: -112}
+        - {x: 74, y: -110}
+        - {x: 75, y: -105}
+        - {x: 78, y: -105}
+        - {x: 75, y: -107}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 63}
+        - {x: -86.5, y: 63}
+        - {x: -97.5, y: 59}
+        - {x: -113.5, y: -26}
+        - {x: -113.5, y: -101}
+        - {x: -37.5, y: -112}
+        - {x: 102.5, y: -112}
+        - {x: 111.5, y: -86}
+        - {x: 111.5, y: 20}
+        - {x: 8.5, y: 47}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 40}
+        - {x: -25.5, y: 41}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 63.5}
+        - {x: -95, y: 63.5}
+        - {x: -114, y: 16.5}
+        - {x: -114, y: -81.5}
+        - {x: -98, y: -111.5}
+        - {x: 96, y: -111.5}
+        - {x: 95, y: -100.5}
+        - {x: 110, y: -65.5}
+        - {x: 110, y: 47.5}
+      - - {x: -32, y: 42.5}
+        - {x: -30, y: 40.5}
+        - {x: -27, y: 41.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: -11.5}
+        - {x: -113.5, y: -46.5}
+        - {x: -113.5, y: -86.5}
+        - {x: -106.5, y: -94.5}
+        - {x: -42.5, y: -111.5}
+        - {x: 98.5, y: -111.5}
+        - {x: 111.5, y: -58.5}
+        - {x: 111.5, y: -16.5}
+        - {x: 107.5, y: 22.5}
+        - {x: -39.5, y: 63.5}
+        - {x: -75.5, y: 63.5}
+        - {x: -82.5, y: 51.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 28.5}
+        - {x: 0, y: 63.5}
+        - {x: -114, y: 63.5}
+        - {x: -114, y: -80.5}
+        - {x: -100, y: -98.5}
+        - {x: -27, y: -111.5}
+        - {x: 101, y: -111.5}
+        - {x: 110, y: -84.5}
+        - {x: 110, y: 5.5}
+        - {x: 108, y: 11.5}
+      - - {x: -32, y: 42.5}
+        - {x: -30, y: 40.5}
+        - {x: -27, y: 41.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 63.5}
+        - {x: -76.5, y: 63.5}
+        - {x: -83.5, y: 51.5}
+        - {x: -113.5, y: -43.5}
+        - {x: -113.5, y: -83.5}
+        - {x: -67.5, y: -111.5}
+        - {x: 96.5, y: -111.5}
+        - {x: 105.5, y: -81.5}
+        - {x: 111.5, y: -57.5}
+        - {x: 111.5, y: -16.5}
+        - {x: 107.5, y: 22.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 63.5}
+        - {x: -95, y: 63.5}
+        - {x: -114, y: 16.5}
+        - {x: -114, y: -81.5}
+        - {x: -98, y: -111.5}
+        - {x: 96, y: -111.5}
+        - {x: 95, y: -100.5}
+        - {x: 110, y: -65.5}
+        - {x: 110, y: 47.5}
+      - - {x: -32, y: 42.5}
+        - {x: -30, y: 40.5}
+        - {x: -27, y: 41.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.5, y: 24.5}
+        - {x: -20.5, y: 63.5}
+        - {x: -80.5, y: 63.5}
+        - {x: -113.5, y: -27.5}
+        - {x: -113.5, y: -89.5}
+        - {x: -69.5, y: -111.5}
+        - {x: 96.5, y: -111.5}
+        - {x: 105.5, y: -81.5}
+        - {x: 111.5, y: -57.5}
+        - {x: 111.5, y: -16.5}
+        - {x: 107.5, y: 22.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 63.5}
+        - {x: -95, y: 63.5}
+        - {x: -114, y: 16.5}
+        - {x: -114, y: -81.5}
+        - {x: -98, y: -111.5}
+        - {x: 96, y: -111.5}
+        - {x: 95, y: -100.5}
+        - {x: 110, y: -65.5}
+        - {x: 110, y: 47.5}
+      - - {x: -32, y: 42.5}
+        - {x: -30, y: 40.5}
+        - {x: -27, y: 41.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 63.5}
+        - {x: -88.5, y: 63.5}
+        - {x: -113.5, y: -2.5}
+        - {x: -113.5, y: -96.5}
+        - {x: -73.5, y: -111.5}
+        - {x: 96.5, y: -111.5}
+        - {x: 105.5, y: -81.5}
+        - {x: 111.5, y: -57.5}
+        - {x: 111.5, y: -16.5}
+        - {x: 107.5, y: 22.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 30}
+        - {x: -33, y: 63}
+        - {x: -82, y: 63}
+        - {x: -87, y: 53}
+        - {x: -114, y: -47}
+        - {x: -114, y: -98}
+        - {x: -24, y: -112}
+        - {x: 96, y: -112}
+        - {x: 110, y: -59}
+        - {x: 110, y: -15}
+        - {x: 106, y: 17}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 63}
+        - {x: -77.5, y: 60}
+        - {x: -79.5, y: 50}
+        - {x: -109.5, y: -33}
+        - {x: -112.5, y: -56}
+        - {x: -112.5, y: -78}
+        - {x: -100.5, y: -90}
+        - {x: -35.5, y: -112}
+        - {x: 110.5, y: -112}
+        - {x: 111.5, y: -109}
+        - {x: 111.5, y: 22}
+        - {x: -44.5, y: 63}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 39}
+        - {x: -25.5, y: 40}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 63}
+        - {x: -83, y: 63}
+        - {x: -87, y: 53}
+        - {x: -114, y: -34}
+        - {x: -114, y: -81}
+        - {x: -109, y: -91}
+        - {x: -55, y: -107}
+        - {x: -8, y: -112}
+        - {x: 91, y: -112}
+        - {x: 110, y: -66}
+        - {x: 110, y: -3}
+        - {x: 104, y: 33}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 63}
+        - {x: -77.5, y: 60}
+        - {x: -79.5, y: 50}
+        - {x: -109.5, y: -33}
+        - {x: -112.5, y: -56}
+        - {x: -112.5, y: -78}
+        - {x: -100.5, y: -90}
+        - {x: -35.5, y: -112}
+        - {x: 110.5, y: -112}
+        - {x: 111.5, y: -109}
+        - {x: 111.5, y: 22}
+        - {x: -44.5, y: 63}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 39}
+        - {x: -25.5, y: 40}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_52
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 38}
+        - {x: 11, y: 63}
+        - {x: -93, y: 63}
+        - {x: -114, y: -6}
+        - {x: -114, y: -85}
+        - {x: -109, y: -91}
+        - {x: -55, y: -107}
+        - {x: -4, y: -112}
+        - {x: 90, y: -112}
+        - {x: 95, y: -102}
+        - {x: 110, y: -63}
+        - {x: 110, y: 22}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 63}
+        - {x: -77.5, y: 60}
+        - {x: -79.5, y: 50}
+        - {x: -109.5, y: -33}
+        - {x: -112.5, y: -56}
+        - {x: -112.5, y: -78}
+        - {x: -100.5, y: -90}
+        - {x: -35.5, y: -112}
+        - {x: 110.5, y: -112}
+        - {x: 111.5, y: -109}
+        - {x: 111.5, y: 22}
+        - {x: -44.5, y: 63}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 39}
+        - {x: -25.5, y: 40}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 44}
+        - {x: -35, y: 63}
+        - {x: -87, y: 63}
+        - {x: -114, y: -20}
+        - {x: -114, y: -84}
+        - {x: -109, y: -91}
+        - {x: -55, y: -107}
+        - {x: -8, y: -112}
+        - {x: 91, y: -112}
+        - {x: 110, y: -66}
+        - {x: 110, y: -3}
+        - {x: 104, y: 33}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_55
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 63}
+        - {x: -77.5, y: 60}
+        - {x: -79.5, y: 50}
+        - {x: -109.5, y: -33}
+        - {x: -112.5, y: -56}
+        - {x: -112.5, y: -78}
+        - {x: -100.5, y: -90}
+        - {x: -35.5, y: -112}
+        - {x: 110.5, y: -112}
+        - {x: 111.5, y: -109}
+        - {x: 111.5, y: 22}
+        - {x: -34.5, y: 63}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 39}
+        - {x: -25.5, y: 40}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 46.5}
+        - {x: -41, y: 63.5}
+        - {x: -78, y: 63.5}
+        - {x: -114, y: 0.5}
+        - {x: -114, y: -90.5}
+        - {x: -9, y: -111.5}
+        - {x: 101, y: -111.5}
+        - {x: 110, y: -95.5}
+        - {x: 110, y: 16.5}
+        - {x: 103, y: 34.5}
+      - - {x: -32, y: 42.5}
+        - {x: -30, y: 40.5}
+        - {x: -27, y: 41.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 63.5}
+        - {x: -85.5, y: 63.5}
+        - {x: -113.5, y: -28.5}
+        - {x: -113.5, y: -108.5}
+        - {x: -100.5, y: -111.5}
+        - {x: 97.5, y: -111.5}
+        - {x: 109.5, y: -79.5}
+        - {x: 111.5, y: -62.5}
+        - {x: 111.5, y: 22.5}
+        - {x: 3.5, y: 45.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 38.5}
+        - {x: 7, y: 63.5}
+        - {x: -85, y: 63.5}
+        - {x: -114, y: 6.5}
+        - {x: -114, y: -90.5}
+        - {x: -9, y: -111.5}
+        - {x: 100, y: -111.5}
+        - {x: 110, y: -88.5}
+        - {x: 110, y: 5.5}
+        - {x: 108, y: 11.5}
+      - - {x: -32, y: 42.5}
+        - {x: -30, y: 40.5}
+        - {x: -27, y: 41.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 63.5}
+        - {x: -85.5, y: 63.5}
+        - {x: -113.5, y: -28.5}
+        - {x: -113.5, y: -108.5}
+        - {x: -100.5, y: -111.5}
+        - {x: 97.5, y: -111.5}
+        - {x: 109.5, y: -79.5}
+        - {x: 111.5, y: -62.5}
+        - {x: 111.5, y: 22.5}
+        - {x: 3.5, y: 45.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_60
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 38.5}
+        - {x: 7, y: 63.5}
+        - {x: -85, y: 63.5}
+        - {x: -114, y: 6.5}
+        - {x: -114, y: -90.5}
+        - {x: -9, y: -111.5}
+        - {x: 100, y: -111.5}
+        - {x: 110, y: -88.5}
+        - {x: 110, y: 5.5}
+        - {x: 108, y: 11.5}
+      - - {x: -32, y: 42.5}
+        - {x: -30, y: 40.5}
+        - {x: -27, y: 41.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_61
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 63.5}
+        - {x: -85.5, y: 63.5}
+        - {x: -113.5, y: -28.5}
+        - {x: -113.5, y: -108.5}
+        - {x: -100.5, y: -111.5}
+        - {x: 97.5, y: -111.5}
+        - {x: 109.5, y: -79.5}
+        - {x: 111.5, y: -62.5}
+        - {x: 111.5, y: 22.5}
+        - {x: 3.5, y: 45.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_62
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 38.5}
+        - {x: 7, y: 63.5}
+        - {x: -85, y: 63.5}
+        - {x: -114, y: 6.5}
+        - {x: -114, y: -90.5}
+        - {x: -9, y: -111.5}
+        - {x: 100, y: -111.5}
+        - {x: 110, y: -88.5}
+        - {x: 110, y: 5.5}
+        - {x: 108, y: 11.5}
+      - - {x: -32, y: 42.5}
+        - {x: -30, y: 40.5}
+        - {x: -27, y: 41.5}
+        - {x: -27, y: 47.5}
+        - {x: -29, y: 49.5}
+        - {x: -32, y: 48.5}
+    - name: Chimera Idle_63
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 63.5}
+        - {x: -85.5, y: 63.5}
+        - {x: -113.5, y: -28.5}
+        - {x: -113.5, y: -108.5}
+        - {x: -100.5, y: -111.5}
+        - {x: 97.5, y: -111.5}
+        - {x: 109.5, y: -79.5}
+        - {x: 111.5, y: -62.5}
+        - {x: 111.5, y: 22.5}
+        - {x: 3.5, y: 45.5}
+      - - {x: -31.5, y: 44.5}
+        - {x: -28.5, y: 40.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -31.5, y: 49.5}
+    - name: Chimera Idle_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 62}
+        - {x: -88, y: 62}
+        - {x: -114, y: -42}
+        - {x: -114, y: -78}
+        - {x: -109, y: -89}
+        - {x: -95, y: -103}
+        - {x: -55, y: -112}
+        - {x: 110, y: -112}
+        - {x: 110, y: 39}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 62}
+        - {x: -99.5, y: -9}
+        - {x: -113.5, y: -37}
+        - {x: -113.5, y: -90}
+        - {x: -62.5, y: -112}
+        - {x: 97.5, y: -112}
+        - {x: 111.5, y: -95}
+        - {x: 111.5, y: 31}
+        - {x: -3.5, y: 62}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 39}
+        - {x: -25.5, y: 40}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_66
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 62}
+        - {x: -88, y: 62}
+        - {x: -114, y: -42}
+        - {x: -114, y: -78}
+        - {x: -109, y: -89}
+        - {x: -95, y: -103}
+        - {x: -55, y: -112}
+        - {x: 110, y: -112}
+        - {x: 110, y: 39}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_67
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 62}
+        - {x: -99.5, y: -9}
+        - {x: -113.5, y: -37}
+        - {x: -113.5, y: -90}
+        - {x: -62.5, y: -112}
+        - {x: 97.5, y: -112}
+        - {x: 111.5, y: -95}
+        - {x: 111.5, y: 31}
+        - {x: -3.5, y: 62}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 39}
+        - {x: -25.5, y: 40}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    - name: Chimera Idle_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 62}
+        - {x: -88, y: 62}
+        - {x: -114, y: -42}
+        - {x: -114, y: -78}
+        - {x: -109, y: -89}
+        - {x: -95, y: -103}
+        - {x: -55, y: -112}
+        - {x: 110, y: -112}
+        - {x: 110, y: 39}
+      - - {x: -32, y: 42}
+        - {x: -30, y: 40}
+        - {x: -27, y: 41}
+        - {x: -27, y: 46}
+        - {x: -29, y: 48}
+        - {x: -32, y: 47}
+    - name: Chimera Idle_69
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 62}
+        - {x: -99.5, y: -9}
+        - {x: -113.5, y: -37}
+        - {x: -113.5, y: -90}
+        - {x: -62.5, y: -112}
+        - {x: 97.5, y: -112}
+        - {x: 111.5, y: -95}
+        - {x: 111.5, y: 31}
+        - {x: -3.5, y: 62}
+      - - {x: -31.5, y: 43}
+        - {x: -28.5, y: 39}
+        - {x: -25.5, y: 40}
+        - {x: -25.5, y: 45}
+        - {x: -28.5, y: 49}
+        - {x: -31.5, y: 48}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

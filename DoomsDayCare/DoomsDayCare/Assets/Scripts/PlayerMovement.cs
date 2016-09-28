@@ -14,6 +14,10 @@ public class PlayerMovement : MonoBehaviour
         {
             Open_Cauldron();
         }
+        else if(coll.gameObject.layer == LayerMask.NameToLayer("Monster"))
+        {
+            coll.gameObject.GetComponent<MonsterInteraction>().Open_Dialog();
+        }
     }
 
     void OnGUI()
