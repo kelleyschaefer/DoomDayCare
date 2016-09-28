@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 6d0c4caf6356fbd42b48153012da04d3
+timeCreated: 1475105850
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wizard Sprite Sheet_0
+    21300002: Wizard Sprite Sheet_1
+    21300004: Wizard Sprite Sheet_2
+    21300006: Wizard Sprite Sheet_3
+    21300008: Wizard Sprite Sheet_4
+    21300010: Wizard Sprite Sheet_5
+    21300012: Wizard Sprite Sheet_6
+    21300014: Wizard Sprite Sheet_7
+    21300016: Wizard Sprite Sheet_8
+    21300018: Wizard Sprite Sheet_9
+    21300020: Wizard Sprite Sheet_10
+    21300022: Wizard Sprite Sheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wizard Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 483
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 50}
+        - {x: 39.5, y: 47}
+        - {x: 36.5, y: 43}
+        - {x: 30.5, y: 15}
+        - {x: 29.5, y: 10}
+        - {x: 24.5, y: 12}
+        - {x: 32.5, y: 25}
+        - {x: 32.5, y: 27}
+        - {x: 30.5, y: 50}
+        - {x: -0.5, y: 77}
+        - {x: -25.5, y: 77}
+        - {x: -45.5, y: 31}
+        - {x: -45.5, y: -60}
+        - {x: -39.5, y: -77}
+        - {x: 2.5, y: -77}
+        - {x: 24.5, y: -72}
+        - {x: 45.5, y: -17}
+    - name: Wizard Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 482
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 45.5}
+        - {x: 35.5, y: 42.5}
+        - {x: 29.5, y: 12.5}
+        - {x: 32.5, y: 29.5}
+        - {x: 0.5, y: 77.5}
+        - {x: -14.5, y: 77.5}
+        - {x: -21.5, y: 69.5}
+        - {x: -45.5, y: 44.5}
+        - {x: -45.5, y: -63.5}
+        - {x: -43.5, y: -77.5}
+        - {x: 24.5, y: -77.5}
+        - {x: 45.5, y: -21.5}
+        - {x: 45.5, y: 47.5}
+        - {x: 39.5, y: 48.5}
+    - name: Wizard Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 482
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 48.5}
+        - {x: 38.5, y: 47.5}
+        - {x: 34.5, y: 40.5}
+        - {x: 33.5, y: 28.5}
+        - {x: 29.5, y: 12.5}
+        - {x: 32.5, y: 29.5}
+        - {x: -1.5, y: 77.5}
+        - {x: -19.5, y: 77.5}
+        - {x: -45.5, y: 38.5}
+        - {x: -45.5, y: -50.5}
+        - {x: -35.5, y: -71.5}
+        - {x: -17.5, y: -77.5}
+        - {x: 24.5, y: -77.5}
+        - {x: 45.5, y: -19.5}
+    - name: Wizard Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 322
+        width: 75
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 77}
+        - {x: -12.5, y: 77}
+        - {x: -37.5, y: 30}
+        - {x: -37.5, y: -74}
+        - {x: -34.5, y: -77}
+        - {x: 24.5, y: -77}
+        - {x: 34.5, y: -71}
+        - {x: 37.5, y: -32}
+        - {x: 37.5, y: 50}
+        - {x: 34.5, y: 61}
+    - name: Wizard Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 322
+        width: 74
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 39}
+        - {x: 29, y: 56}
+        - {x: 7, y: 77}
+        - {x: -6, y: 77}
+        - {x: -37, y: 37}
+        - {x: -37, y: -73}
+        - {x: -32, y: -75}
+        - {x: -24, y: -77}
+        - {x: 17, y: -77}
+        - {x: 29, y: -74}
+        - {x: 33, y: -63}
+        - {x: 37, y: -20}
+    - name: Wizard Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 322
+        width: 74
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 77}
+        - {x: -37, y: 46}
+        - {x: -37, y: -47}
+        - {x: -23, y: -77}
+        - {x: 27, y: -77}
+        - {x: 37, y: -37}
+        - {x: 37, y: 53}
+        - {x: 11, y: 77}
+    - name: Wizard Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 75
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 76.5}
+        - {x: -37.5, y: 42.5}
+        - {x: -37.5, y: -0.5}
+        - {x: -26.5, y: -39.5}
+        - {x: -15.5, y: -76.5}
+        - {x: 30.5, y: -76.5}
+        - {x: 37.5, y: -26.5}
+        - {x: 37.5, y: 41.5}
+        - {x: 8.5, y: 76.5}
+    - name: Wizard Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 160
+        width: 75
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 77}
+        - {x: -37.5, y: 65}
+        - {x: -37.5, y: -74}
+        - {x: -30.5, y: -77}
+        - {x: 32.5, y: -77}
+        - {x: 37.5, y: -76}
+        - {x: 37.5, y: 36}
+        - {x: 6.5, y: 77}
+    - name: Wizard Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 161
+        width: 75
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 31}
+        - {x: 7.5, y: 77}
+        - {x: -11.5, y: 77}
+        - {x: -37.5, y: 64}
+        - {x: -37.5, y: -73}
+        - {x: -31.5, y: -75}
+        - {x: -21.5, y: -77}
+        - {x: 29.5, y: -77}
+        - {x: 32.5, y: -76}
+        - {x: 37.5, y: -69}
+    - name: Wizard Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 77}
+        - {x: -31, y: 28}
+        - {x: -31, y: 22}
+        - {x: -34, y: 45}
+        - {x: -45, y: 53}
+        - {x: -45, y: -31}
+        - {x: -20, y: -77}
+        - {x: 28, y: -77}
+        - {x: 45, y: -65}
+        - {x: 45, y: 52}
+        - {x: 23, y: 77}
+    - name: Wizard Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 77}
+        - {x: -31.5, y: 28}
+        - {x: -31.5, y: 22}
+        - {x: -35.5, y: 40}
+        - {x: -36.5, y: 43}
+        - {x: -40.5, y: 47}
+        - {x: -45.5, y: 46}
+        - {x: -45.5, y: -13}
+        - {x: -42.5, y: -27}
+        - {x: -21.5, y: -77}
+        - {x: 42.5, y: -77}
+        - {x: 45.5, y: -66}
+        - {x: 45.5, y: 55}
+        - {x: 20.5, y: 77}
+    - name: Wizard Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 77}
+        - {x: -31.5, y: 28}
+        - {x: -31.5, y: 24}
+        - {x: -26.5, y: 12}
+        - {x: -29.5, y: 12}
+        - {x: -35.5, y: 41}
+        - {x: -37.5, y: 46}
+        - {x: -44.5, y: 51}
+        - {x: -45.5, y: 50}
+        - {x: -45.5, y: -31}
+        - {x: -32.5, y: -77}
+        - {x: 44.5, y: -77}
+        - {x: 45.5, y: -75}
+        - {x: 45.5, y: 55}
+        - {x: 25.5, y: 77}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

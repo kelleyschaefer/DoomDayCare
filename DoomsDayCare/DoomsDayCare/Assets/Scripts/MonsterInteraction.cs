@@ -8,14 +8,6 @@ public class MonsterInteraction : MonoBehaviour
     public GameObject dialog_box;
     public Ingredient drop;
 
-    //private Vector3 onscreen;
-
-    void Start()
-    {
-        //onscreen = dialog_box.transform.localPosition;
-        //Close_Dialog();
-    }
-
     void OnGUI()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -26,15 +18,17 @@ public class MonsterInteraction : MonoBehaviour
 
     public void Close_Dialog()
     {
-        //dialog_box.transform.localPosition = new Vector3(1000, 1000, 0);
         dialog_box.SetActive(false);
     }
 
-    public void Open_Dialog()
+    public Ingredient Open_Dialog()
     {
         int i = Random.Range(0, sayings.Length);
         dialog_box.GetComponentInChildren<Text>().text = sayings[i];
-        //dialog_box.transform.position = onscreen;
         dialog_box.SetActive(true);
+        Ingredient ing = null;
+        if (Random.Range(1, 5) == 1)
+            ing = drop;
+        return ing;
     }
 }

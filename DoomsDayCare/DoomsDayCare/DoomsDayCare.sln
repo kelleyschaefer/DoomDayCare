@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{086B7952-2386-0338-36C6-32FE0338F745}") = "DoomsDayCare", "Assembly-CSharp.csproj", "{CBB20294-1B0D-C7FB-42DB-B92ECDA8F42F}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomsDayCare.CSharp", "DoomsDayCare.CSharp.csproj", "{24F2ADE4-1B90-79B2-24C0-1E6E137EB36E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBB20294-1B0D-C7FB-42DB-B92ECDA8F42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBB20294-1B0D-C7FB-42DB-B92ECDA8F42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBB20294-1B0D-C7FB-42DB-B92ECDA8F42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBB20294-1B0D-C7FB-42DB-B92ECDA8F42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F2ADE4-1B90-79B2-24C0-1E6E137EB36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F2ADE4-1B90-79B2-24C0-1E6E137EB36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F2ADE4-1B90-79B2-24C0-1E6E137EB36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F2ADE4-1B90-79B2-24C0-1E6E137EB36E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

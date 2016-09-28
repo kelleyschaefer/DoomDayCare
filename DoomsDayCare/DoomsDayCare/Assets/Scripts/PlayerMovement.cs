@@ -16,7 +16,14 @@ public class PlayerMovement : MonoBehaviour
         }
         else if(coll.gameObject.layer == LayerMask.NameToLayer("Monster"))
         {
-            coll.gameObject.GetComponent<MonsterInteraction>().Open_Dialog();
+            Ingredient ing = coll.gameObject.GetComponent<MonsterInteraction>().Open_Dialog();
+            if (ing != null)
+            {
+                if (GetComponent<Player>().ingredients.ContainsKey(ing))
+                    GetComponent<Player>().ingredients[ing] += 1;
+                else
+                    GetComponent<Player>().ingredients.Add(ing, 1);
+            }
         }
     }
 
@@ -49,22 +56,35 @@ public class PlayerMovement : MonoBehaviour
         mixing_menu.transform.localPosition = new Vector3(1000, 1000, 0);
     }
 
+    private void Reset_Triggers()
+    {
+        GetComponent<Animator>().ResetTrigger("right");
+        GetComponent<Animator>().ResetTrigger("up");
+        GetComponent<Animator>().ResetTrigger("down");
+        GetComponent<Animator>().ResetTrigger("left");
+    }
+
     private void Move()
     {
+        Reset_Triggers();
         if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
         {
+            GetComponent<Animator>().SetTrigger("left");
             transform.Translate(Vector2.left * speed * Time.deltaTime);
         }
         else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
         {
+            GetComponent<Animator>().SetTrigger("right");
             transform.Translate(Vector2.right * speed * Time.deltaTime);
         }
         else if ((Input.GetKey(KeyCode.DownArrow)) || Input.GetKey(KeyCode.S))
         {
+            GetComponent<Animator>().SetTrigger("down");
             transform.Translate(Vector2.down * speed * Time.deltaTime);
         }
         else if ((Input.GetKey(KeyCode.UpArrow)) || Input.GetKey(KeyCode.W))
         {
+            GetComponent<Animator>().SetTrigger("up");
             transform.Translate(Vector2.up * speed * Time.deltaTime);
         }
     }
