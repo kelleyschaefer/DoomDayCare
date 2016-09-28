@@ -1,0 +1,4001 @@
+fileFormatVersion: 2
+guid: e77d0142129a0a14ca38c2c9b91548ce
+timeCreated: 1475007882
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Phoenix_Discovery_Sprite_Sheet_0
+    21300002: Phoenix_Discovery_Sprite_Sheet_1
+    21300004: Phoenix_Discovery_Sprite_Sheet_2
+    21300006: Phoenix_Discovery_Sprite_Sheet_3
+    21300008: Phoenix_Discovery_Sprite_Sheet_4
+    21300010: Phoenix_Discovery_Sprite_Sheet_5
+    21300012: Phoenix_Discovery_Sprite_Sheet_6
+    21300014: Phoenix_Discovery_Sprite_Sheet_7
+    21300016: Phoenix_Discovery_Sprite_Sheet_8
+    21300018: Phoenix_Discovery_Sprite_Sheet_9
+    21300020: Phoenix_Discovery_Sprite_Sheet_10
+    21300022: Phoenix_Discovery_Sprite_Sheet_11
+    21300024: Phoenix_Discovery_Sprite_Sheet_12
+    21300026: Phoenix_Discovery_Sprite_Sheet_13
+    21300028: Phoenix_Discovery_Sprite_Sheet_14
+    21300030: Phoenix_Discovery_Sprite_Sheet_15
+    21300032: Phoenix_Discovery_Sprite_Sheet_16
+    21300034: Phoenix_Discovery_Sprite_Sheet_17
+    21300036: Phoenix_Discovery_Sprite_Sheet_18
+    21300038: Phoenix_Discovery_Sprite_Sheet_19
+    21300040: Phoenix_Discovery_Sprite_Sheet_20
+    21300042: Phoenix_Discovery_Sprite_Sheet_21
+    21300044: Phoenix_Discovery_Sprite_Sheet_22
+    21300046: Phoenix_Discovery_Sprite_Sheet_23
+    21300048: Phoenix_Discovery_Sprite_Sheet_24
+    21300050: Phoenix_Discovery_Sprite_Sheet_25
+    21300052: Phoenix_Discovery_Sprite_Sheet_26
+    21300054: Phoenix_Discovery_Sprite_Sheet_27
+    21300056: Phoenix_Discovery_Sprite_Sheet_28
+    21300058: Phoenix_Discovery_Sprite_Sheet_29
+    21300060: Phoenix_Discovery_Sprite_Sheet_30
+    21300062: Phoenix_Discovery_Sprite_Sheet_31
+    21300064: Phoenix_Discovery_Sprite_Sheet_32
+    21300066: Phoenix_Discovery_Sprite_Sheet_33
+    21300068: Phoenix_Discovery_Sprite_Sheet_34
+    21300070: Phoenix_Discovery_Sprite_Sheet_35
+    21300072: Phoenix_Discovery_Sprite_Sheet_36
+    21300074: Phoenix_Discovery_Sprite_Sheet_37
+    21300076: Phoenix_Discovery_Sprite_Sheet_38
+    21300078: Phoenix_Discovery_Sprite_Sheet_39
+    21300080: Phoenix_Discovery_Sprite_Sheet_40
+    21300082: Phoenix_Discovery_Sprite_Sheet_41
+    21300084: Phoenix_Discovery_Sprite_Sheet_42
+    21300086: Phoenix_Discovery_Sprite_Sheet_43
+    21300088: Phoenix_Discovery_Sprite_Sheet_44
+    21300090: Phoenix_Discovery_Sprite_Sheet_45
+    21300092: Phoenix_Discovery_Sprite_Sheet_46
+    21300094: Phoenix_Discovery_Sprite_Sheet_47
+    21300096: Phoenix_Discovery_Sprite_Sheet_48
+    21300098: Phoenix_Discovery_Sprite_Sheet_49
+    21300100: Phoenix_Discovery_Sprite_Sheet_50
+    21300102: Phoenix_Discovery_Sprite_Sheet_51
+    21300104: Phoenix_Discovery_Sprite_Sheet_52
+    21300106: Phoenix_Discovery_Sprite_Sheet_53
+    21300108: Phoenix_Discovery_Sprite_Sheet_54
+    21300110: Phoenix_Discovery_Sprite_Sheet_55
+    21300112: Phoenix_Discovery_Sprite_Sheet_56
+    21300114: Phoenix_Discovery_Sprite_Sheet_57
+    21300116: Phoenix_Discovery_Sprite_Sheet_58
+    21300118: Phoenix_Discovery_Sprite_Sheet_59
+    21300120: Phoenix_Discovery_Sprite_Sheet_60
+    21300122: Phoenix_Discovery_Sprite_Sheet_61
+    21300124: Phoenix_Discovery_Sprite_Sheet_62
+    21300126: Phoenix_Discovery_Sprite_Sheet_63
+    21300128: Phoenix_Discovery_Sprite_Sheet_64
+    21300130: Phoenix_Discovery_Sprite_Sheet_65
+    21300132: Phoenix_Discovery_Sprite_Sheet_66
+    21300134: Phoenix_Discovery_Sprite_Sheet_67
+    21300136: Phoenix_Discovery_Sprite_Sheet_68
+    21300138: Phoenix_Discovery_Sprite_Sheet_69
+    21300140: Phoenix_Discovery_Sprite_Sheet_70
+    21300142: Phoenix_Discovery_Sprite_Sheet_71
+    21300144: Phoenix_Discovery_Sprite_Sheet_72
+    21300146: Phoenix_Discovery_Sprite_Sheet_73
+    21300148: Phoenix_Discovery_Sprite_Sheet_74
+    21300150: Phoenix_Discovery_Sprite_Sheet_75
+    21300152: Phoenix_Discovery_Sprite_Sheet_76
+    21300154: Phoenix_Discovery_Sprite_Sheet_77
+    21300156: Phoenix_Discovery_Sprite_Sheet_78
+    21300158: Phoenix_Discovery_Sprite_Sheet_79
+    21300160: Phoenix_Discovery_Sprite_Sheet_80
+    21300162: Phoenix_Discovery_Sprite_Sheet_81
+    21300164: Phoenix_Discovery_Sprite_Sheet_82
+    21300166: Phoenix_Discovery_Sprite_Sheet_83
+    21300168: Phoenix_Discovery_Sprite_Sheet_84
+    21300170: Phoenix_Discovery_Sprite_Sheet_85
+    21300172: Phoenix_Discovery_Sprite_Sheet_86
+    21300174: Phoenix_Discovery_Sprite_Sheet_87
+    21300176: Phoenix_Discovery_Sprite_Sheet_88
+    21300178: Phoenix_Discovery_Sprite_Sheet_89
+    21300180: Phoenix_Discovery_Sprite_Sheet_90
+    21300182: Phoenix_Discovery_Sprite_Sheet_91
+    21300184: Phoenix_Discovery_Sprite_Sheet_92
+    21300186: Phoenix_Discovery_Sprite_Sheet_93
+    21300188: Phoenix_Discovery_Sprite_Sheet_94
+    21300190: Phoenix_Discovery_Sprite_Sheet_95
+    21300192: Phoenix_Discovery_Sprite_Sheet_96
+    21300194: Phoenix_Discovery_Sprite_Sheet_97
+    21300196: Phoenix_Discovery_Sprite_Sheet_98
+    21300198: Phoenix_Discovery_Sprite_Sheet_99
+    21300200: Phoenix_Discovery_Sprite_Sheet_100
+    21300202: Phoenix_Discovery_Sprite_Sheet_101
+    21300204: Phoenix_Discovery_Sprite_Sheet_102
+    21300206: Phoenix_Discovery_Sprite_Sheet_103
+    21300208: Phoenix_Discovery_Sprite_Sheet_104
+    21300210: Phoenix_Discovery_Sprite_Sheet_105
+    21300212: Phoenix_Discovery_Sprite_Sheet_106
+    21300214: Phoenix_Discovery_Sprite_Sheet_107
+    21300216: Phoenix_Discovery_Sprite_Sheet_108
+    21300218: Phoenix_Discovery_Sprite_Sheet_109
+    21300220: Phoenix_Discovery_Sprite_Sheet_110
+    21300222: Phoenix_Discovery_Sprite_Sheet_111
+    21300224: Phoenix_Discovery_Sprite_Sheet_112
+    21300226: Phoenix_Discovery_Sprite_Sheet_113
+    21300228: Phoenix_Discovery_Sprite_Sheet_114
+    21300230: Phoenix_Discovery_Sprite_Sheet_115
+    21300232: Phoenix_Discovery_Sprite_Sheet_116
+    21300234: Phoenix_Discovery_Sprite_Sheet_117
+    21300236: Phoenix_Discovery_Sprite_Sheet_118
+    21300238: Phoenix_Discovery_Sprite_Sheet_119
+    21300240: Phoenix_Discovery_Sprite_Sheet_120
+    21300242: Phoenix_Discovery_Sprite_Sheet_121
+    21300244: Phoenix_Discovery_Sprite_Sheet_122
+    21300246: Phoenix_Discovery_Sprite_Sheet_123
+    21300248: Phoenix_Discovery_Sprite_Sheet_124
+    21300250: Phoenix_Discovery_Sprite_Sheet_125
+    21300252: Phoenix_Discovery_Sprite_Sheet_126
+    21300254: Phoenix_Discovery_Sprite_Sheet_127
+    21300256: Phoenix_Discovery_Sprite_Sheet_128
+    21300258: Phoenix_Discovery_Sprite_Sheet_129
+    21300260: Phoenix_Discovery_Sprite_Sheet_130
+    21300262: Phoenix_Discovery_Sprite_Sheet_131
+    21300264: Phoenix_Discovery_Sprite_Sheet_132
+    21300266: Phoenix_Discovery_Sprite_Sheet_133
+    21300268: Phoenix_Discovery_Sprite_Sheet_134
+    21300270: Phoenix_Discovery_Sprite_Sheet_135
+    21300272: Phoenix_Discovery_Sprite_Sheet_136
+    21300274: Phoenix_Discovery_Sprite_Sheet_137
+    21300276: Phoenix_Discovery_Sprite_Sheet_138
+    21300278: Phoenix_Discovery_Sprite_Sheet_139
+    21300280: Phoenix_Discovery_Sprite_Sheet_140
+    21300282: Phoenix_Discovery_Sprite_Sheet_141
+    21300284: Phoenix_Discovery_Sprite_Sheet_142
+    21300286: Phoenix_Discovery_Sprite_Sheet_143
+    21300288: Phoenix_Discovery_Sprite_Sheet_144
+    21300290: Phoenix_Discovery_Sprite_Sheet_145
+    21300292: Phoenix_Discovery_Sprite_Sheet_146
+    21300294: Phoenix_Discovery_Sprite_Sheet_147
+    21300296: Phoenix_Discovery_Sprite_Sheet_148
+    21300298: Phoenix_Discovery_Sprite_Sheet_149
+    21300300: Phoenix_Discovery_Sprite_Sheet_150
+    21300302: Phoenix_Discovery_Sprite_Sheet_151
+    21300304: Phoenix_Discovery_Sprite_Sheet_152
+    21300306: Phoenix_Discovery_Sprite_Sheet_153
+    21300308: Phoenix_Discovery_Sprite_Sheet_154
+    21300310: Phoenix_Discovery_Sprite_Sheet_155
+    21300312: Phoenix_Discovery_Sprite_Sheet_156
+    21300314: Phoenix_Discovery_Sprite_Sheet_157
+    21300316: Phoenix_Discovery_Sprite_Sheet_158
+    21300318: Phoenix_Discovery_Sprite_Sheet_159
+    21300320: Phoenix_Discovery_Sprite_Sheet_160
+    21300322: Phoenix_Discovery_Sprite_Sheet_161
+    21300324: Phoenix_Discovery_Sprite_Sheet_162
+    21300326: Phoenix_Discovery_Sprite_Sheet_163
+    21300328: Phoenix_Discovery_Sprite_Sheet_164
+    21300330: Phoenix_Discovery_Sprite_Sheet_165
+    21300332: Phoenix_Discovery_Sprite_Sheet_166
+    21300334: Phoenix_Discovery_Sprite_Sheet_167
+    21300336: Phoenix_Discovery_Sprite_Sheet_168
+    21300338: Phoenix_Discovery_Sprite_Sheet_169
+    21300340: Phoenix_Discovery_Sprite_Sheet_170
+    21300342: Phoenix_Discovery_Sprite_Sheet_171
+    21300344: Phoenix_Discovery_Sprite_Sheet_172
+    21300346: Phoenix_Discovery_Sprite_Sheet_173
+    21300348: Phoenix_Discovery_Sprite_Sheet_174
+    21300350: Phoenix_Discovery_Sprite_Sheet_175
+    21300352: Phoenix_Discovery_Sprite_Sheet_176
+    21300354: Phoenix_Discovery_Sprite_Sheet_177
+    21300356: Phoenix_Discovery_Sprite_Sheet_178
+    21300358: Phoenix_Discovery_Sprite_Sheet_179
+    21300360: Phoenix_Discovery_Sprite_Sheet_180
+    21300362: Phoenix_Discovery_Sprite_Sheet_181
+    21300364: Phoenix_Discovery_Sprite_Sheet_182
+    21300366: Phoenix_Discovery_Sprite_Sheet_183
+    21300368: Phoenix_Discovery_Sprite_Sheet_184
+    21300370: Phoenix_Discovery_Sprite_Sheet_185
+    21300372: Phoenix_Discovery_Sprite_Sheet_186
+    21300374: Phoenix_Discovery_Sprite_Sheet_187
+    21300376: Phoenix_Discovery_Sprite_Sheet_188
+    21300378: Phoenix_Discovery_Sprite_Sheet_189
+    21300380: Phoenix_Discovery_Sprite_Sheet_190
+    21300382: Phoenix_Discovery_Sprite_Sheet_191
+    21300384: Phoenix_Discovery_Sprite_Sheet_192
+    21300386: Phoenix_Discovery_Sprite_Sheet_193
+    21300388: Phoenix_Discovery_Sprite_Sheet_194
+    21300390: Phoenix_Discovery_Sprite_Sheet_195
+    21300392: Phoenix_Discovery_Sprite_Sheet_196
+    21300394: Phoenix_Discovery_Sprite_Sheet_197
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Phoenix_Discovery_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5838
+        y: 9140
+        width: 230
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5228271, y: 38.573486}
+        - {x: -24.477173, y: 16.573486}
+        - {x: -24.477173, y: -38.426514}
+        - {x: 24.522827, y: -38.426514}
+        - {x: 24.522827, y: 21.573486}
+        - {x: 17.522827, y: 38.573486}
+    - name: Phoenix_Discovery_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 6522
+        y: 9140
+        width: 254
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.535156, y: -38.926514}
+        - {x: -25.535156, y: -39.926514}
+        - {x: 23.464844, y: -39.926514}
+        - {x: 28.464844, y: -36.926514}
+        - {x: 28.464844, y: 15.073486}
+        - {x: 19.464844, y: 40.073486}
+        - {x: 2.4648438, y: 40.073486}
+        - {x: -26.535156, y: 1.0734863}
+    - name: Phoenix_Discovery_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 7211
+        y: 9140
+        width: 259
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.9517822, y: 40.073486}
+        - {x: -27.048218, y: 9.073486}
+        - {x: -27.048218, y: -39.926514}
+        - {x: 26.951782, y: -39.926514}
+        - {x: 28.951782, y: -34.926514}
+        - {x: 28.951782, y: 33.073486}
+        - {x: 21.951782, y: 40.073486}
+    - name: Phoenix_Discovery_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 7886
+        y: 9140
+        width: 292
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.986938, y: 38.073486}
+        - {x: -30.986938, y: 19.073486}
+        - {x: -30.986938, y: -31.926514}
+        - {x: -22.986938, y: -37.926514}
+        - {x: 17.013062, y: -37.926514}
+        - {x: 31.013062, y: -21.926514}
+        - {x: 31.013062, y: 16.073486}
+        - {x: 12.013062, y: 38.073486}
+      - - {x: 9.013062, y: 38.073486}
+        - {x: 9.013062, y: 35.073486}
+        - {x: 13.013062, y: 30.073486}
+        - {x: 16.013062, y: 30.073486}
+        - {x: 20.013062, y: 34.073486}
+        - {x: 20.013062, y: 38.073486}
+    - name: Phoenix_Discovery_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8087
+        y: 9475
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 8585
+        y: 9140
+        width: 296
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.0898438, y: 38.573486}
+        - {x: -13.910156, y: 38.573486}
+        - {x: -30.910156, y: 19.573486}
+        - {x: -30.910156, y: -34.426514}
+        - {x: -28.910156, y: -38.426514}
+        - {x: 19.089844, y: -38.426514}
+        - {x: 31.089844, y: -25.426514}
+        - {x: 31.089844, y: 6.5734863}
+        - {x: 28.089844, y: 20.573486}
+      - - {x: 10.089844, y: 38.573486}
+        - {x: 9.089844, y: 35.573486}
+        - {x: 10.089844, y: 32.573486}
+        - {x: 14.089844, y: 29.573486}
+        - {x: 16.089844, y: 29.573486}
+        - {x: 20.089844, y: 32.573486}
+        - {x: 20.089844, y: 38.573486}
+    - name: Phoenix_Discovery_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 8790
+        y: 9479
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 9274
+        y: 9140
+        width: 301
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.576782, y: 39.573486}
+        - {x: -12.423218, y: 39.573486}
+        - {x: -31.423218, y: 22.573486}
+        - {x: -31.423218, y: -29.426514}
+        - {x: -22.423218, y: -39.426514}
+        - {x: 14.576782, y: -39.426514}
+        - {x: 24.576782, y: -38.426514}
+        - {x: 31.576782, y: -23.426514}
+        - {x: 31.576782, y: 9.573486}
+        - {x: 27.576782, y: 33.573486}
+      - - {x: 12.576782, y: 39.573486}
+        - {x: 12.576782, y: 31.573486}
+        - {x: 17.576782, y: 31.573486}
+        - {x: 20.576782, y: 34.573486}
+        - {x: 20.576782, y: 39.573486}
+    - name: Phoenix_Discovery_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 9494
+        y: 9489
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 9159
+        width: 191
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.993469, y: 26.544067}
+        - {x: -19.99347, y: 6.5440674}
+        - {x: -19.99347, y: -15.455933}
+        - {x: -13.993469, y: -26.455933}
+        - {x: 15.006531, y: -26.455933}
+        - {x: 20.00653, y: -19.455933}
+        - {x: 20.00653, y: 12.544067}
+        - {x: 12.006531, y: 26.544067}
+    - name: Phoenix_Discovery_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 9159
+        width: 191
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.916733, y: 26.544067}
+        - {x: -15.916733, y: 11.544067}
+        - {x: -19.916733, y: 0.5440674}
+        - {x: -19.916733, y: -16.455933}
+        - {x: -11.916733, y: -26.455933}
+        - {x: 11.083267, y: -26.455933}
+        - {x: 20.083267, y: -20.455933}
+        - {x: 20.083267, y: 10.544067}
+        - {x: 17.083267, y: 26.544067}
+    - name: Phoenix_Discovery_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 9159
+        width: 192
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.048981, y: 26.544067}
+        - {x: -20.04898, y: 1.5440674}
+        - {x: -20.04898, y: -19.455933}
+        - {x: -12.048981, y: -26.455933}
+        - {x: 12.951019, y: -26.455933}
+        - {x: 21.95102, y: -17.455933}
+        - {x: 21.95102, y: -2.4559326}
+        - {x: 12.951019, y: 26.544067}
+    - name: Phoenix_Discovery_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 9159
+        width: 186
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.427338, y: 26.544067}
+        - {x: -19.427338, y: 12.544067}
+        - {x: -19.427338, y: -22.455933}
+        - {x: -12.427338, y: -26.455933}
+        - {x: 10.572662, y: -26.455933}
+        - {x: 19.572662, y: -20.455933}
+        - {x: 19.572662, y: 6.5440674}
+        - {x: 12.572662, y: 26.544067}
+    - name: Phoenix_Discovery_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 9159
+        width: 192
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.05957, y: 26.544067}
+        - {x: -20.05957, y: 2.5440674}
+        - {x: -20.05957, y: -20.455933}
+        - {x: -13.05957, y: -26.455933}
+        - {x: 16.94043, y: -26.455933}
+        - {x: 21.94043, y: -20.455933}
+        - {x: 21.94043, y: 11.544067}
+        - {x: 11.94043, y: 26.544067}
+    - name: Phoenix_Discovery_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 9345
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 9149
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.482849, y: 28.954346}
+        - {x: -20.48285, y: 6.9543457}
+        - {x: -20.48285, y: -18.045654}
+        - {x: -18.48285, y: -26.045654}
+        - {x: -16.48285, y: -27.045654}
+        - {x: 10.517151, y: -27.045654}
+        - {x: 20.51715, y: -21.045654}
+        - {x: 20.51715, y: 10.954346}
+        - {x: 12.517151, y: 27.954346}
+        - {x: 10.517151, y: 28.954346}
+    - name: Phoenix_Discovery_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 9149
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.95105, y: 28.954346}
+        - {x: -20.95105, y: 2.9543457}
+        - {x: -20.95105, y: -17.045654}
+        - {x: -10.95105, y: -27.045654}
+        - {x: 7.04895, y: -27.045654}
+        - {x: 21.04895, y: -17.045654}
+        - {x: 21.04895, y: 12.954346}
+        - {x: 15.04895, y: 28.954346}
+      - - {x: -16.95105, y: -16.045654}
+        - {x: -19.95105, y: -19.045654}
+        - {x: -19.95105, y: -22.045654}
+        - {x: -16.95105, y: -25.045654}
+        - {x: -14.95105, y: -25.045654}
+        - {x: -12.95105, y: -23.045654}
+        - {x: -12.95105, y: -18.045654}
+        - {x: -14.95105, y: -16.045654}
+    - name: Phoenix_Discovery_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 9144
+        width: 210
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.964111, y: 33.909424}
+        - {x: -21.964111, y: 9.909424}
+        - {x: -21.964111, y: -30.090576}
+        - {x: -18.964111, y: -32.090576}
+        - {x: 13.035889, y: -32.090576}
+        - {x: 22.035889, y: -21.090576}
+        - {x: 22.035889, y: 11.909424}
+        - {x: 14.035889, y: 33.909424}
+    - name: Phoenix_Discovery_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 9345
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 8580
+        y: 9307
+        width: 5
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 9264
+        y: 9283
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8441
+        width: 316
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.563675, y: 40.496704}
+        - {x: -15.436325, y: 40.496704}
+        - {x: -29.436325, y: 34.496704}
+        - {x: -33.436325, y: 18.496704}
+        - {x: -33.436325, y: -27.503296}
+        - {x: -21.436325, y: -38.503296}
+        - {x: 28.563675, y: -38.503296}
+        - {x: 33.563675, y: -26.503296}
+        - {x: 33.563675, y: 23.496704}
+        - {x: 23.563675, y: 34.496704}
+    - name: Phoenix_Discovery_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 8441
+        width: 316
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.568573, y: 40.496704}
+        - {x: -32.568573, y: 26.496704}
+        - {x: -32.568573, y: -31.503296}
+        - {x: -23.568573, y: -38.503296}
+        - {x: 20.431427, y: -38.503296}
+        - {x: 34.431427, y: -33.503296}
+        - {x: 34.431427, y: 22.496704}
+        - {x: 17.431427, y: 40.496704}
+    - name: Phoenix_Discovery_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 8441
+        width: 321
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.536743, y: 40.496704}
+        - {x: -18.536743, y: 36.496704}
+        - {x: -33.536743, y: 19.496704}
+        - {x: -33.536743, y: -18.503296}
+        - {x: -28.536743, y: -33.503296}
+        - {x: -19.536743, y: -38.503296}
+        - {x: 17.463257, y: -38.503296}
+        - {x: 35.463257, y: -35.503296}
+        - {x: 35.463257, y: 22.496704}
+        - {x: 12.463257, y: 40.496704}
+    - name: Phoenix_Discovery_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5053
+        y: 8431
+        width: 383
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.973877, y: 41.406982}
+        - {x: 11.973877, y: 41.406982}
+        - {x: -27.026123, y: 37.406982}
+        - {x: -39.026123, y: 14.406982}
+        - {x: -39.026123, y: -23.593018}
+        - {x: -36.026123, y: -34.593018}
+        - {x: -24.026123, y: -39.593018}
+        - {x: 24.973877, y: -39.593018}
+        - {x: 41.973877, y: -31.593018}
+        - {x: 41.973877, y: 18.406982}
+        - {x: 35.973877, y: 38.406982}
+    - name: Phoenix_Discovery_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6029
+        y: 8752
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6728
+        y: 8752
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 8771
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8163
+        y: 8790
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 8857
+        y: 8786
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 8441
+        width: 316
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.459991, y: 36.996704}
+        - {x: -33.45999, y: 33.996704}
+        - {x: -33.45999, y: -22.003296}
+        - {x: -25.459991, y: -35.003296}
+        - {x: 33.54001, y: -35.003296}
+        - {x: 33.54001, y: 23.996704}
+        - {x: 26.540009, y: 36.996704}
+    - name: Phoenix_Discovery_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 8441
+        width: 335
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.571838, y: 36.996704}
+        - {x: -25.428162, y: 36.996704}
+        - {x: -35.42816, y: 21.996704}
+        - {x: -35.42816, y: -19.003296}
+        - {x: -22.428162, y: -35.003296}
+        - {x: 29.571838, y: -35.003296}
+        - {x: 35.57184, y: -26.003296}
+        - {x: 35.57184, y: 18.996704}
+        - {x: 32.57184, y: 29.996704}
+    - name: Phoenix_Discovery_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 8441
+        width: 344
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.970642, y: 36.996704}
+        - {x: -35.970642, y: 24.996704}
+        - {x: -35.970642, y: -28.003296}
+        - {x: -25.970642, y: -35.003296}
+        - {x: 20.029358, y: -35.003296}
+        - {x: 30.029358, y: -34.003296}
+        - {x: 36.029358, y: -27.003296}
+        - {x: 36.029358, y: 26.996704}
+        - {x: 13.029358, y: 36.996704}
+    - name: Phoenix_Discovery_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4354
+        y: 8441
+        width: 374
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.102844, y: 37.996704}
+        - {x: -39.102844, y: 22.996704}
+        - {x: -39.102844, y: -17.003296}
+        - {x: -25.102844, y: -36.003296}
+        - {x: 28.897156, y: -36.003296}
+        - {x: 40.897156, y: -20.003296}
+        - {x: 40.897156, y: 6.996704}
+        - {x: 34.897156, y: 37.996704}
+    - name: Phoenix_Discovery_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 8436
+        width: 373
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.97876, y: 36.451782}
+        - {x: -38.97876, y: -32.548218}
+        - {x: -36.97876, y: -34.548218}
+        - {x: 31.02124, y: -34.548218}
+        - {x: 39.02124, y: -32.548218}
+        - {x: 39.02124, y: 36.451782}
+    - name: Phoenix_Discovery_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 8642
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 8436
+        width: 364
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.066162, y: 36.451782}
+        - {x: -38.066162, y: 24.451782}
+        - {x: -38.066162, y: -30.548218}
+        - {x: -29.066162, y: -34.548218}
+        - {x: 25.933838, y: -34.548218}
+        - {x: 39.933838, y: -30.548218}
+        - {x: 39.933838, y: 36.451782}
+    - name: Phoenix_Discovery_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 7159
+        y: 8431
+        width: 387
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.584839, y: 36.906982}
+        - {x: -34.41516, y: 36.906982}
+        - {x: -40.41516, y: 16.906982}
+        - {x: -40.41516, y: -26.093018}
+        - {x: -29.415161, y: -35.093018}
+        - {x: 22.584839, y: -35.093018}
+        - {x: 26.584839, y: -34.093018}
+        - {x: 40.58484, y: -18.093018}
+        - {x: 40.58484, y: 21.906982}
+        - {x: 39.58484, y: 25.906982}
+    - name: Phoenix_Discovery_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 7867
+        y: 8436
+        width: 383
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.54248, y: 37.951782}
+        - {x: -25.45752, y: 37.951782}
+        - {x: -40.45752, y: 28.951782}
+        - {x: -40.45752, y: -27.048218}
+        - {x: -32.45752, y: -36.048218}
+        - {x: 29.54248, y: -36.048218}
+        - {x: 40.54248, y: -19.048218}
+        - {x: 40.54248, y: 12.951782}
+        - {x: 36.54248, y: 25.951782}
+    - name: Phoenix_Discovery_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 8565
+        y: 8436
+        width: 378
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.910156, y: 11.951782}
+        - {x: 32.910156, y: 12.951782}
+        - {x: 35.910156, y: 17.951782}
+        - {x: 37.910156, y: 25.951782}
+        - {x: 22.910156, y: 37.951782}
+        - {x: -19.089844, y: 37.951782}
+        - {x: -38.089844, y: 30.951782}
+        - {x: -39.089844, y: 29.951782}
+        - {x: -39.089844, y: -23.048218}
+        - {x: -32.089844, y: -36.048218}
+        - {x: 11.910156, y: -36.048218}
+        - {x: 29.910156, y: -34.048218}
+        - {x: 40.910156, y: -23.048218}
+        - {x: 40.910156, y: 9.951782}
+    - name: Phoenix_Discovery_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 9259
+        y: 8436
+        width: 388
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.4420166, y: 38.451782}
+        - {x: -0.5579834, y: 36.451782}
+        - {x: -0.5579834, y: 29.451782}
+        - {x: -6.5579834, y: 23.451782}
+        - {x: -9.557983, y: 27.451782}
+        - {x: -8.557983, y: 26.451782}
+        - {x: -4.5579834, y: 26.451782}
+        - {x: -2.5579834, y: 28.451782}
+        - {x: -2.5579834, y: 35.451782}
+        - {x: -4.5579834, y: 38.451782}
+        - {x: -29.557983, y: 38.451782}
+        - {x: -40.557983, y: 16.451782}
+        - {x: -40.557983, y: -26.548218}
+        - {x: -33.557983, y: -36.548218}
+        - {x: 30.442017, y: -36.548218}
+        - {x: 42.442017, y: -34.548218}
+        - {x: 42.442017, y: 38.451782}
+    - name: Phoenix_Discovery_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 7733
+        width: 388
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5816345, y: 38.039185}
+        - {x: -31.581635, y: 16.039185}
+        - {x: -40.581635, y: 9.039185}
+        - {x: -40.581635, y: -19.960815}
+        - {x: -29.581635, y: -37.960815}
+        - {x: 23.418365, y: -37.960815}
+        - {x: 42.418365, y: -31.960815}
+        - {x: 42.418365, y: 28.039185}
+        - {x: 25.418365, y: 38.039185}
+      - - {x: -26.581635, y: 28.039185}
+        - {x: -24.581635, y: 24.039185}
+        - {x: -18.581635, y: 24.039185}
+        - {x: -16.581635, y: 25.039185}
+        - {x: -16.581635, y: 34.039185}
+        - {x: -17.581635, y: 37.039185}
+        - {x: -25.581635, y: 37.039185}
+        - {x: -26.581635, y: 36.039185}
+    - name: Phoenix_Discovery_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 7742
+        width: 382
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.9151, y: -33.579956}
+        - {x: -37.9151, y: -36.579956}
+        - {x: 27.0849, y: -36.579956}
+        - {x: 40.0849, y: -31.579956}
+        - {x: 40.0849, y: 38.420044}
+        - {x: -30.9151, y: 38.420044}
+        - {x: -39.9151, y: 17.420044}
+      - - {x: -26.9151, y: 37.420044}
+        - {x: -28.9151, y: 34.420044}
+        - {x: -28.9151, y: 28.420044}
+        - {x: -25.9151, y: 24.420044}
+        - {x: -22.9151, y: 24.420044}
+        - {x: -18.9151, y: 26.420044}
+        - {x: -18.9151, y: 34.420044}
+        - {x: -21.9151, y: 37.420044}
+    - name: Phoenix_Discovery_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 7733
+        width: 368
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4575806, y: 40.539185}
+        - {x: -38.45758, y: 21.539185}
+        - {x: -38.45758, y: -23.460815}
+        - {x: -37.45758, y: -26.460815}
+        - {x: -20.45758, y: -40.460815}
+        - {x: 35.54242, y: -40.460815}
+        - {x: 38.54242, y: -32.460815}
+        - {x: 38.54242, y: 27.539185}
+        - {x: 27.54242, y: 40.539185}
+    - name: Phoenix_Discovery_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 7733
+        width: 364
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 40.039185}
+        - {x: -38.5, y: 31.039185}
+        - {x: -38.5, y: -28.960815}
+        - {x: -30.5, y: -39.960815}
+        - {x: 30.5, y: -39.960815}
+        - {x: 38.5, y: -23.960815}
+        - {x: 38.5, y: 26.039185}
+        - {x: 30.5, y: 40.039185}
+    - name: Phoenix_Discovery_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 7733
+        width: 369
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.45758, y: 40.539185}
+        - {x: -31.54242, y: 40.539185}
+        - {x: -38.54242, y: 22.539185}
+        - {x: -38.54242, y: -36.460815}
+        - {x: -33.54242, y: -40.460815}
+        - {x: 23.45758, y: -40.460815}
+        - {x: 40.45758, y: -18.460815}
+        - {x: 40.45758, y: 7.5391846}
+        - {x: 33.45758, y: 19.539185}
+    - name: Phoenix_Discovery_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 7733
+        width: 354
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.465698, y: 40.539185}
+        - {x: -20.465698, y: 39.539185}
+        - {x: -37.4657, y: 27.539185}
+        - {x: -37.4657, y: -37.460815}
+        - {x: -36.4657, y: -40.460815}
+        - {x: 34.5343, y: -40.460815}
+        - {x: 37.5343, y: -29.460815}
+        - {x: 37.5343, y: 29.539185}
+        - {x: 22.534302, y: 40.539185}
+    - name: Phoenix_Discovery_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 7733
+        width: 355
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.0979, y: 40.539185}
+        - {x: -37.0979, y: 32.539185}
+        - {x: -37.0979, y: -40.460815}
+        - {x: 24.9021, y: -40.460815}
+        - {x: 38.9021, y: -26.460815}
+        - {x: 38.9021, y: 23.539185}
+        - {x: 29.9021, y: 40.539185}
+    - name: Phoenix_Discovery_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 6484
+        y: 7733
+        width: 349
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.523682, y: 40.539185}
+        - {x: -18.476318, y: 40.539185}
+        - {x: -23.476318, y: 39.539185}
+        - {x: -36.47632, y: 21.539185}
+        - {x: -36.47632, y: -39.460815}
+        - {x: -31.476318, y: -40.460815}
+        - {x: 25.523682, y: -40.460815}
+        - {x: 32.52368, y: -38.460815}
+        - {x: 36.52368, y: -16.460815}
+        - {x: 36.52368, y: 25.539185}
+    - name: Phoenix_Discovery_Sprite_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 7173
+        y: 7742
+        width: 349
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.48938, y: 40.920044}
+        - {x: -36.48938, y: 12.920044}
+        - {x: -36.48938, y: -39.079956}
+        - {x: 35.51062, y: -39.079956}
+        - {x: 36.51062, y: -36.079956}
+        - {x: 36.51062, y: 23.920044}
+        - {x: 17.51062, y: 40.920044}
+    - name: Phoenix_Discovery_Sprite_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 7867
+        y: 7742
+        width: 354
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.54248, y: 40.920044}
+        - {x: -30.45752, y: 40.920044}
+        - {x: -37.45752, y: 24.920044}
+        - {x: -37.45752, y: -38.079956}
+        - {x: -33.45752, y: -39.079956}
+        - {x: 33.54248, y: -39.079956}
+        - {x: 37.54248, y: -31.079956}
+        - {x: 37.54248, y: 33.920044}
+    - name: Phoenix_Discovery_Sprite_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 8556
+        y: 7742
+        width: 368
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.529419, y: 40.920044}
+        - {x: -17.470581, y: 40.920044}
+        - {x: -26.470581, y: 30.920044}
+        - {x: -38.47058, y: 13.920044}
+        - {x: -38.47058, y: -25.079956}
+        - {x: -28.470581, y: -39.079956}
+        - {x: 29.529419, y: -39.079956}
+        - {x: 38.52942, y: -34.079956}
+        - {x: 38.52942, y: 19.920044}
+        - {x: 33.52942, y: 36.920044}
+    - name: Phoenix_Discovery_Sprite_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 9412
+        y: 8087
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 7876
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7733
+        width: 387
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.563675, y: 36.539185}
+        - {x: 1.5636749, y: 36.539185}
+        - {x: -1.4363251, y: 33.539185}
+        - {x: -3.436325, y: 26.539185}
+        - {x: -4.436325, y: 35.539185}
+        - {x: -5.436325, y: 36.539185}
+        - {x: -40.436325, y: 36.539185}
+        - {x: -40.436325, y: -35.460815}
+        - {x: -38.436325, y: -36.460815}
+        - {x: 17.563675, y: -36.460815}
+        - {x: 40.563675, y: -32.460815}
+        - {x: 40.563675, y: 14.539185}
+        - {x: 28.563675, y: 33.539185}
+    - name: Phoenix_Discovery_Sprite_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 7733
+        width: 387
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.404495, y: 36.539185}
+        - {x: -29.404495, y: 33.539185}
+        - {x: -40.404495, y: 17.539185}
+        - {x: -40.404495, y: -14.460815}
+        - {x: -31.404495, y: -36.460815}
+        - {x: 40.595505, y: -36.460815}
+        - {x: 40.595505, y: 28.539185}
+        - {x: 24.595505, y: 36.539185}
+    - name: Phoenix_Discovery_Sprite_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 7163
+        y: 7876
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 9259
+        y: 7742
+        width: 374
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.057983, y: 36.920044}
+        - {x: -39.057983, y: -24.079956}
+        - {x: -25.057983, y: -35.079956}
+        - {x: 31.942017, y: -35.079956}
+        - {x: 40.942017, y: -22.079956}
+        - {x: 40.942017, y: 36.920044}
+    - name: Phoenix_Discovery_Sprite_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 7034
+        width: 388
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.428978, y: 40.962402}
+        - {x: -29.571022, y: 40.962402}
+        - {x: -40.571022, y: 22.962402}
+        - {x: -40.571022, y: -14.037598}
+        - {x: -24.571022, y: -39.037598}
+        - {x: 25.428978, y: -39.037598}
+        - {x: 42.428978, y: -30.037598}
+        - {x: 42.428978, y: 14.962402}
+        - {x: 41.428978, y: 23.962402}
+    - name: Phoenix_Discovery_Sprite_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 7044
+        width: 388
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.581635, y: 37.552246}
+        - {x: -40.581635, y: 17.552246}
+        - {x: -40.581635, y: -13.447754}
+        - {x: -31.581635, y: -37.447754}
+        - {x: 42.418365, y: -37.447754}
+        - {x: 42.418365, y: 29.552246}
+        - {x: 33.418365, y: 37.552246}
+    - name: Phoenix_Discovery_Sprite_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 7039
+        width: 387
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.459991, y: 39.007324}
+        - {x: -40.45999, y: 21.007324}
+        - {x: -40.45999, y: -37.992676}
+        - {x: -33.45999, y: -38.992676}
+        - {x: 39.54001, y: -38.992676}
+        - {x: 40.54001, y: -37.992676}
+        - {x: 40.54001, y: 28.007324}
+        - {x: 38.54001, y: 39.007324}
+    - name: Phoenix_Discovery_Sprite_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 7034
+        width: 373
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.502441, y: 40.962402}
+        - {x: -33.50244, y: 32.962402}
+        - {x: -38.50244, y: 23.962402}
+        - {x: -38.50244, y: -23.037598}
+        - {x: -31.502441, y: -39.037598}
+        - {x: 32.49756, y: -39.037598}
+        - {x: 40.49756, y: -37.037598}
+        - {x: 40.49756, y: 34.962402}
+        - {x: 34.49756, y: 40.962402}
+    - name: Phoenix_Discovery_Sprite_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 7034
+        width: 383
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5293579, y: 41.962402}
+        - {x: -35.470642, y: 33.962402}
+        - {x: -40.470642, y: 25.962402}
+        - {x: -40.470642, y: -26.037598}
+        - {x: -37.470642, y: -35.037598}
+        - {x: -30.470642, y: -40.037598}
+        - {x: 31.529358, y: -40.037598}
+        - {x: 40.529358, y: -22.037598}
+        - {x: 40.529358, y: 19.962402}
+        - {x: 33.529358, y: 41.962402}
+    - name: Phoenix_Discovery_Sprite_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 4364
+        y: 7034
+        width: 383
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.013061523, y: 41.962402}
+        - {x: -20.013062, y: 37.962402}
+        - {x: -40.01306, y: 22.962402}
+        - {x: -40.01306, y: -31.037598}
+        - {x: -38.01306, y: -40.037598}
+        - {x: 23.986938, y: -40.037598}
+        - {x: 40.98694, y: -31.037598}
+        - {x: 40.98694, y: 13.962402}
+        - {x: 32.98694, y: 41.962402}
+    - name: Phoenix_Discovery_Sprite_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 5355
+        y: 7379
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 7374
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 6761
+        y: 7393
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 7460
+        y: 7383
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 7044
+        width: 387
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.404495, y: 36.552246}
+        - {x: -34.404495, y: 35.552246}
+        - {x: -40.404495, y: 14.552246}
+        - {x: -40.404495, y: -36.447754}
+        - {x: 29.595505, y: -36.447754}
+        - {x: 40.595505, y: -23.447754}
+        - {x: 40.595505, y: 27.552246}
+        - {x: 34.595505, y: 36.552246}
+    - name: Phoenix_Discovery_Sprite_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 6771
+        y: 7383
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 9259
+        y: 7039
+        width: 378
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.942017, y: 36.507324}
+        - {x: -32.057983, y: 36.507324}
+        - {x: -39.057983, y: 15.507324}
+        - {x: -39.057983, y: -25.492676}
+        - {x: -32.057983, y: -35.492676}
+        - {x: -27.057983, y: -36.492676}
+        - {x: 24.942017, y: -36.492676}
+        - {x: 40.942017, y: -22.492676}
+        - {x: 40.942017, y: 21.507324}
+        - {x: 31.942017, y: 34.507324}
+    - name: Phoenix_Discovery_Sprite_Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 7029
+        width: 388
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.899536, y: 37.917603}
+        - {x: -25.100464, y: 37.917603}
+        - {x: -38.100464, y: 32.917603}
+        - {x: -40.100464, y: 18.917603}
+        - {x: -40.100464, y: -25.082397}
+        - {x: -36.100464, y: -30.082397}
+        - {x: -24.100464, y: -36.082397}
+        - {x: 32.899536, y: -36.082397}
+        - {x: 41.899536, y: -15.082397}
+        - {x: 41.899536, y: 18.917603}
+        - {x: 37.899536, y: 24.917603}
+      - - {x: 21.899536, y: 37.917603}
+        - {x: 22.899536, y: 34.917603}
+        - {x: 25.899536, y: 34.917603}
+        - {x: 27.899536, y: 36.917603}
+        - {x: 27.899536, y: 37.917603}
+    - name: Phoenix_Discovery_Sprite_Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 5761
+        y: 7034
+        width: 383
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.431396, y: 37.462402}
+        - {x: -33.568604, y: 37.462402}
+        - {x: -39.568604, y: 19.462402}
+        - {x: -39.568604, y: -22.537598}
+        - {x: -32.568604, y: -35.537598}
+        - {x: 32.431396, y: -35.537598}
+        - {x: 41.431396, y: -21.537598}
+        - {x: 41.431396, y: 15.462402}
+        - {x: 40.431396, y: 24.462402}
+      - - {x: 29.431396, y: 35.462402}
+        - {x: 29.431396, y: 37.462402}
+        - {x: 24.431396, y: 37.462402}
+        - {x: 26.431396, y: 34.462402}
+    - name: Phoenix_Discovery_Sprite_Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 7034
+        width: 387
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.4469, y: 37.962402}
+        - {x: -40.4469, y: -35.037598}
+        - {x: -39.4469, y: -36.037598}
+        - {x: 18.5531, y: -36.037598}
+        - {x: 38.5531, y: -31.037598}
+        - {x: 40.5531, y: -26.037598}
+        - {x: 40.5531, y: 22.962402}
+        - {x: 26.5531, y: 37.962402}
+    - name: Phoenix_Discovery_Sprite_Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 7159
+        y: 7039
+        width: 392
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.41516, y: 36.007324}
+        - {x: -41.41516, y: 27.007324}
+        - {x: -41.41516, y: -30.992676}
+        - {x: -34.41516, y: -35.992676}
+        - {x: 38.58484, y: -35.992676}
+        - {x: 41.58484, y: -28.992676}
+        - {x: 41.58484, y: 20.007324}
+        - {x: 26.584839, y: 36.007324}
+    - name: Phoenix_Discovery_Sprite_Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 7862
+        y: 7039
+        width: 388
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.50244, y: 36.007324}
+        - {x: -40.50244, y: -34.992676}
+        - {x: -39.50244, y: -35.992676}
+        - {x: 33.49756, y: -35.992676}
+        - {x: 42.49756, y: -32.992676}
+        - {x: 42.49756, y: 28.007324}
+        - {x: 33.49756, y: 36.007324}
+    - name: Phoenix_Discovery_Sprite_Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 8001
+        y: 7340
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 8561
+        y: 7039
+        width: 378
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.92566, y: 36.007324}
+        - {x: -39.92566, y: -32.992676}
+        - {x: -27.92566, y: -35.992676}
+        - {x: 34.07434, y: -35.992676}
+        - {x: 40.07434, y: -30.992676}
+        - {x: 40.07434, y: 27.007324}
+        - {x: 25.07434, y: 36.007324}
+    - name: Phoenix_Discovery_Sprite_Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 7250
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 8082
+        y: 6938
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 6982
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 9140
+        y: 5599
+        width: 588
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.573486, y: 147.07678}
+        - {x: -49.426514, y: 147.07678}
+        - {x: -61.426514, y: 112.07678}
+        - {x: -61.426514, y: -123.92322}
+        - {x: -47.426514, y: -146.92322}
+        - {x: 31.573486, y: -146.92322}
+        - {x: 61.573486, y: -104.92322}
+        - {x: 61.573486, y: 109.07678}
+        - {x: 32.573486, y: 146.07678}
+    - name: Phoenix_Discovery_Sprite_Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 6637
+        y: 6804
+        width: 110
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 7379
+        y: 6895
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 7757
+        y: 5599
+        width: 574
+        height: 1335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.554688, y: 140.07678}
+        - {x: -36.445312, y: 140.07678}
+        - {x: -44.445312, y: 120.07678}
+        - {x: -60.445312, y: 58.076782}
+        - {x: -60.445312, y: -120.92322}
+        - {x: -41.445312, y: -139.92322}
+        - {x: 46.554688, y: -139.92322}
+        - {x: 60.554688, y: -108.92322}
+        - {x: 60.554688, y: 55.076782}
+        - {x: 48.554688, y: 94.07678}
+    - name: Phoenix_Discovery_Sprite_Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 5599
+        width: 574
+        height: 1383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.467285, y: 121.07678}
+        - {x: 8.467285, y: 145.07678}
+        - {x: -13.532715, y: 145.07678}
+        - {x: -33.532715, y: 134.07678}
+        - {x: -55.532715, y: 116.07678}
+        - {x: -59.532715, y: 104.07678}
+        - {x: -59.532715, y: -135.92322}
+        - {x: -58.532715, y: -144.92322}
+        - {x: 59.467285, y: -144.92322}
+        - {x: 61.467285, y: -134.92322}
+        - {x: 61.467285, y: 69.07678}
+      - - {x: 13.467285, y: 145.07678}
+        - {x: 14.467285, y: 142.07678}
+        - {x: 17.467285, y: 142.07678}
+        - {x: 19.467285, y: 144.07678}
+        - {x: 19.467285, y: 145.07678}
+    - name: Phoenix_Discovery_Sprite_Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 6331
+        width: 383
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.026123, y: 9.549805}
+        - {x: -40.026123, y: -28.450195}
+        - {x: -23.026123, y: -38.450195}
+        - {x: 35.973877, y: -38.450195}
+        - {x: 41.973877, y: -36.450195}
+        - {x: 41.973877, y: 32.549805}
+        - {x: 40.973877, y: 36.549805}
+        - {x: 31.973877, y: 38.549805}
+        - {x: 4.973877, y: 38.549805}
+        - {x: -12.026123, y: 32.549805}
+      - - {x: -27.026123, y: 26.549805}
+        - {x: -26.026123, y: 24.549805}
+        - {x: -19.026123, y: 24.549805}
+        - {x: -17.026123, y: 25.549805}
+        - {x: -17.026123, y: 33.549805}
+        - {x: -19.026123, y: 36.549805}
+        - {x: -23.026123, y: 36.549805}
+        - {x: -27.026123, y: 35.549805}
+    - name: Phoenix_Discovery_Sprite_Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 6331
+        width: 378
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.068573, y: 40.049805}
+        - {x: -39.068573, y: 24.049805}
+        - {x: -39.068573, y: -23.950195}
+        - {x: -37.068573, y: -30.950195}
+        - {x: -23.068573, y: -39.950195}
+        - {x: 37.931427, y: -39.950195}
+        - {x: 40.931427, y: -26.950195}
+        - {x: 40.931427, y: 35.049805}
+        - {x: 33.931427, y: 40.049805}
+    - name: Phoenix_Discovery_Sprite_Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 6316
+        width: 373
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.44693, y: 42.91516}
+        - {x: -39.44693, y: 21.915161}
+        - {x: -39.44693, y: -28.084839}
+        - {x: -38.44693, y: -32.08484}
+        - {x: -24.44693, y: -41.08484}
+        - {x: 22.55307, y: -41.08484}
+        - {x: 39.55307, y: -30.084839}
+        - {x: 39.55307, y: 27.915161}
+        - {x: 31.55307, y: 42.91516}
+    - name: Phoenix_Discovery_Sprite_Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 6316
+        width: 363
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.944489, y: 43.41516}
+        - {x: -30.944489, y: 36.41516}
+        - {x: -37.94449, y: 25.415161}
+        - {x: -37.94449, y: -18.584839}
+        - {x: -28.944489, y: -41.58484}
+        - {x: 33.05551, y: -41.58484}
+        - {x: 38.05551, y: -40.58484}
+        - {x: 38.05551, y: 34.41516}
+        - {x: 26.055511, y: 43.41516}
+    - name: Phoenix_Discovery_Sprite_Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 6316
+        width: 359
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.03186, y: 43.41516}
+        - {x: -37.03186, y: 35.41516}
+        - {x: -37.03186, y: -32.58484}
+        - {x: -31.03186, y: -41.58484}
+        - {x: 27.96814, y: -41.58484}
+        - {x: 38.96814, y: -31.584839}
+        - {x: 38.96814, y: 30.415161}
+        - {x: 28.96814, y: 43.41516}
+    - name: Phoenix_Discovery_Sprite_Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 4900
+        width: 594
+        height: 1818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.93634, y: 190}
+        - {x: -22.06366, y: 190}
+        - {x: -41.06366, y: 170}
+        - {x: -62.06366, y: 92}
+        - {x: -62.06366, y: -66}
+        - {x: -55.06366, y: -96}
+        - {x: -54.06366, y: -122}
+        - {x: -37.06366, y: -166}
+        - {x: -5.0636597, y: -190}
+        - {x: 36.93634, y: -190}
+        - {x: 63.93634, y: -181}
+        - {x: 63.93634, y: 154}
+        - {x: 60.93634, y: 173}
+      - - {x: 58.93634, y: -13}
+        - {x: 60.93634, y: -15}
+        - {x: 63.93634, y: -14}
+        - {x: 63.93634, y: -10}
+        - {x: 61.93634, y: -8}
+        - {x: 58.93634, y: -9}
+    - name: Phoenix_Discovery_Sprite_Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 4900
+        width: 584
+        height: 1866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.983643, y: 195}
+        - {x: -1.0163574, y: 195}
+        - {x: -42.016357, y: 165}
+        - {x: -61.016357, y: 111}
+        - {x: -61.016357, y: -91}
+        - {x: -43.016357, y: -171}
+        - {x: -16.016357, y: -195}
+        - {x: 31.983643, y: -195}
+        - {x: 52.983643, y: -191}
+        - {x: 62.983643, y: -172}
+        - {x: 62.983643, y: 84}
+        - {x: 56.983643, y: 142}
+    - name: Phoenix_Discovery_Sprite_Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 4933
+        y: 4900
+        width: 584
+        height: 1919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.6036377, y: 201}
+        - {x: -39.603638, y: 173}
+        - {x: -35.603638, y: 125}
+        - {x: -60.603638, y: 106}
+        - {x: -60.603638, y: -153}
+        - {x: -24.603638, y: -201}
+        - {x: 34.396362, y: -201}
+        - {x: 62.396362, y: -185}
+        - {x: 62.396362, y: 136}
+        - {x: 33.396362, y: 201}
+      - - {x: 23.396362, y: -49}
+        - {x: 25.396362, y: -51}
+        - {x: 28.396362, y: -50}
+        - {x: 28.396362, y: -44}
+        - {x: 26.396362, y: -42}
+        - {x: 23.396362, y: -43}
+    - name: Phoenix_Discovery_Sprite_Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 5646
+        y: 4900
+        width: 570
+        height: 1971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.398804, y: 206}
+        - {x: -3.6011963, y: 206}
+        - {x: -51.601196, y: 136}
+        - {x: -59.601196, y: 95}
+        - {x: -59.601196, y: -6}
+        - {x: -53.601196, y: -43}
+        - {x: -59.601196, y: -85}
+        - {x: -59.601196, y: -135}
+        - {x: -41.601196, y: -177}
+        - {x: -13.601196, y: -206}
+        - {x: 29.398804, y: -206}
+        - {x: 50.398804, y: -202}
+        - {x: 61.398804, y: -182}
+        - {x: 61.398804, y: 107}
+        - {x: 56.398804, y: 151}
+    - name: Phoenix_Discovery_Sprite_Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 6350
+        y: 5589
+        width: 569
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.479614, y: 132.98694}
+        - {x: -19.479614, y: 130.98694}
+        - {x: -59.479614, y: 78.98694}
+        - {x: -59.479614, y: -99.01306}
+        - {x: -48.479614, y: -130.01306}
+        - {x: 37.520386, y: -130.01306}
+        - {x: 59.520386, y: -88.01306}
+        - {x: 59.520386, y: 35.98694}
+        - {x: 35.520386, y: 132.98694}
+    - name: Phoenix_Discovery_Sprite_Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 7053
+        y: 5599
+        width: 570
+        height: 1292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.433105, y: 115.57678}
+        - {x: 31.433105, y: 135.57678}
+        - {x: -52.566895, y: 135.57678}
+        - {x: -59.566895, y: 116.57678}
+        - {x: -59.566895, y: -122.42322}
+        - {x: -50.566895, y: -135.42322}
+        - {x: 29.433105, y: -135.42322}
+        - {x: 38.433105, y: -127.42322}
+        - {x: 61.433105, y: -92.42322}
+        - {x: 61.433105, y: -14.423218}
+    - name: Phoenix_Discovery_Sprite_Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 9121
+        y: 6651
+        width: 4
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 9121
+        y: 6613
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 6493
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4900
+        width: 622
+        height: 1402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5449, y: -78.5}
+        - {x: 63.5449, y: -77.5}
+        - {x: 65.5449, y: -77.5}
+        - {x: 65.5449, y: 120.5}
+        - {x: 52.5449, y: 135.5}
+        - {x: 37.5449, y: 146.5}
+        - {x: -65.4551, y: 146.5}
+        - {x: -65.4551, y: -121.5}
+        - {x: -47.4551, y: -146.5}
+        - {x: 42.5449, y: -146.5}
+        - {x: 65.5449, y: -136.5}
+        - {x: 65.5449, y: -87.5}
+        - {x: 60.5449, y: -78.5}
+        - {x: 51.5449, y: -78.5}
+    - name: Phoenix_Discovery_Sprite_Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 4900
+        width: 627
+        height: 1402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.08734, y: 146.5}
+        - {x: -65.08734, y: 119.5}
+        - {x: -65.08734, y: -99.5}
+        - {x: -35.08734, y: -146.5}
+        - {x: 41.91266, y: -146.5}
+        - {x: 44.91266, y: -145.5}
+        - {x: 66.91266, y: -88.5}
+        - {x: 66.91266, y: 120.5}
+        - {x: 49.91266, y: 146.5}
+      - - {x: -61.08734, y: -79.5}
+        - {x: -59.08734, y: -81.5}
+        - {x: -56.08734, y: -80.5}
+        - {x: -56.08734, y: -71.5}
+        - {x: -58.08734, y: -69.5}
+        - {x: -61.08734, y: -70.5}
+    - name: Phoenix_Discovery_Sprite_Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 4900
+        width: 627
+        height: 1402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.48938, y: -8.5}
+        - {x: 61.48938, y: 1.5}
+        - {x: 67.48938, y: 19.5}
+        - {x: 67.48938, y: 115.5}
+        - {x: 46.48938, y: 146.5}
+        - {x: -42.51062, y: 146.5}
+        - {x: -65.51062, y: 117.5}
+        - {x: -65.51062, y: -13.5}
+        - {x: -59.51062, y: -71.5}
+        - {x: -53.51062, y: -97.5}
+        - {x: -41.51062, y: -146.5}
+        - {x: 59.48938, y: -146.5}
+        - {x: 67.48938, y: -92.5}
+        - {x: 67.48938, y: -35.5}
+        - {x: 61.48938, y: -18.5}
+      - - {x: -60.51062, y: -79.5}
+        - {x: -58.51062, y: -81.5}
+        - {x: -55.51062, y: -80.5}
+        - {x: -55.51062, y: -71.5}
+        - {x: -57.51062, y: -69.5}
+        - {x: -60.51062, y: -70.5}
+    - name: Phoenix_Discovery_Sprite_Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 4900
+        width: 627
+        height: 1416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.09796, y: 147}
+        - {x: -65.09796, y: 107}
+        - {x: -65.09796, y: 76}
+        - {x: -53.09796, y: 72}
+        - {x: -38.09796, y: 86}
+        - {x: -31.097961, y: 109}
+        - {x: -30.097961, y: 112}
+        - {x: -26.097961, y: 108}
+        - {x: -37.09796, y: 88}
+        - {x: -35.09796, y: 84}
+        - {x: -48.09796, y: 76}
+        - {x: -64.09796, y: 16}
+        - {x: -55.09796, y: -148}
+        - {x: 47.90204, y: -148}
+        - {x: 66.90204, y: -119}
+        - {x: 66.90204, y: 119}
+        - {x: 38.90204, y: 147}
+      - - {x: -52.09796, y: 37}
+        - {x: -50.09796, y: 35}
+        - {x: -47.09796, y: 36}
+        - {x: -47.09796, y: 45}
+        - {x: -49.09796, y: 47}
+        - {x: -52.09796, y: 46}
+    - name: Phoenix_Discovery_Sprite_Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 4900
+        width: 593
+        height: 1402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.97632, y: 146.5}
+        - {x: -61.97632, y: 118.5}
+        - {x: -61.97632, y: 75.5}
+        - {x: -45.97632, y: 76.5}
+        - {x: -36.97632, y: 85.5}
+        - {x: -33.97632, y: 92.5}
+        - {x: -22.976318, y: 102.5}
+        - {x: -43.97632, y: 77.5}
+        - {x: -46.97632, y: 49.5}
+        - {x: -42.97632, y: 21.5}
+        - {x: -61.97632, y: -30.5}
+        - {x: -61.97632, y: -50.5}
+        - {x: -49.97632, y: -124.5}
+        - {x: -26.976318, y: -146.5}
+        - {x: 48.02368, y: -146.5}
+        - {x: 62.02368, y: -142.5}
+        - {x: 62.02368, y: 144.5}
+        - {x: 61.02368, y: 146.5}
+      - - {x: 58.02368, y: 34.5}
+        - {x: 58.02368, y: 30.5}
+        - {x: 60.02368, y: 28.5}
+        - {x: 62.02368, y: 29.5}
+        - {x: 62.02368, y: 34.5}
+        - {x: 61.02368, y: 35.5}
+      - - {x: -49.97632, y: 38.5}
+        - {x: -47.97632, y: 36.5}
+        - {x: -44.97632, y: 37.5}
+        - {x: -44.97632, y: 46.5}
+        - {x: -46.97632, y: 48.5}
+        - {x: -49.97632, y: 47.5}
+    - name: Phoenix_Discovery_Sprite_Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 8331
+        y: 5996
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 9034
+        y: 5996
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 8350
+        y: 5958
+        width: 5
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 9054
+        y: 5958
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Phoenix_Discovery_Sprite_Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 4957
+        width: 392
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.400391, y: 54.911865}
+        - {x: -41.40039, y: 27.911865}
+        - {x: -41.40039, y: -3.0881348}
+        - {x: -39.40039, y: -6.088135}
+        - {x: -37.40039, y: -7.088135}
+        - {x: -37.40039, y: -6.088135}
+        - {x: -41.40039, y: -8.088135}
+        - {x: -41.40039, y: -40.088135}
+        - {x: -32.40039, y: -53.088135}
+        - {x: -1.4003906, y: -53.088135}
+        - {x: 16.59961, y: -46.088135}
+        - {x: 41.59961, y: 17.911865}
+        - {x: 41.59961, y: 39.911865}
+        - {x: 13.599609, y: 54.911865}
+    - name: Phoenix_Discovery_Sprite_Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 4957
+        width: 407
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.532715, y: 57.911865}
+        - {x: -42.532715, y: 41.911865}
+        - {x: -42.532715, y: -46.088135}
+        - {x: -27.532715, y: -56.088135}
+        - {x: 10.467285, y: -56.088135}
+        - {x: 44.467285, y: -8.088135}
+        - {x: 44.467285, y: 48.911865}
+        - {x: 35.467285, y: 57.911865}
+    - name: Phoenix_Discovery_Sprite_Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 7934
+        y: 4957
+        width: 426
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.955933, y: 61.911865}
+        - {x: -44.955933, y: 45.911865}
+        - {x: -44.955933, y: -50.088135}
+        - {x: -34.955933, y: -60.088135}
+        - {x: -3.9559326, y: -60.088135}
+        - {x: 17.044067, y: -53.088135}
+        - {x: 45.044067, y: 16.911865}
+        - {x: 45.044067, y: 48.911865}
+        - {x: 32.044067, y: 61.911865}
+    - name: Phoenix_Discovery_Sprite_Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 8637
+        y: 4957
+        width: 440
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.456787, y: 64.411865}
+        - {x: -24.543213, y: 64.411865}
+        - {x: -45.543213, y: 44.411865}
+        - {x: -45.543213, y: -54.588135}
+        - {x: -32.543213, y: -62.588135}
+        - {x: 8.456787, y: -62.588135}
+        - {x: 27.456787, y: -32.588135}
+        - {x: 47.456787, y: 13.411865}
+        - {x: 47.456787, y: 57.411865}
+    - name: Phoenix_Discovery_Sprite_Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 9336
+        y: 4957
+        width: 459
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.966553, y: 66.911865}
+        - {x: -47.966553, y: 42.911865}
+        - {x: -47.966553, y: -64.088135}
+        - {x: -44.966553, y: -65.088135}
+        - {x: 0.033447266, y: -65.088135}
+        - {x: 48.033447, y: 13.911865}
+        - {x: 48.033447, y: 61.911865}
+        - {x: 20.033447, y: 66.911865}
+    - name: Phoenix_Discovery_Sprite_Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 4259
+        width: 407
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.901226, y: 57.044067}
+        - {x: -13.098774, y: 57.044067}
+        - {x: -42.098774, y: 27.044067}
+        - {x: -42.098774, y: -51.955933}
+        - {x: -30.098774, y: -56.955933}
+        - {x: 2.901226, y: -56.955933}
+        - {x: 43.901226, y: 14.044067}
+        - {x: 43.901226, y: 46.044067}
+        - {x: 42.901226, y: 48.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 4259
+        width: 431
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.977966, y: 59.544067}
+        - {x: -15.022034, y: 59.544067}
+        - {x: -32.022034, y: 41.544067}
+        - {x: -45.022034, y: 25.544067}
+        - {x: -45.022034, y: -41.455933}
+        - {x: -32.022034, y: -59.455933}
+        - {x: 2.9779663, y: -59.455933}
+        - {x: 46.977966, y: 5.5440674}
+        - {x: 46.977966, y: 41.544067}
+        - {x: 40.977966, y: 46.544067}
+    - name: Phoenix_Discovery_Sprite_Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 4259
+        width: 440
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.59958, y: 46.044067}
+        - {x: 40.59958, y: 58.044067}
+        - {x: 15.599579, y: 63.044067}
+        - {x: -18.400421, y: 63.044067}
+        - {x: -46.40042, y: 42.044067}
+        - {x: -46.40042, y: -62.955933}
+        - {x: -5.400421, y: -62.955933}
+        - {x: 2.5995789, y: -49.955933}
+        - {x: 2.5995789, y: -42.955933}
+        - {x: 46.59958, y: 16.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 4259
+        width: 460
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.967346, y: 66.04407}
+        - {x: -48.032654, y: 66.04407}
+        - {x: -48.032654, y: -65.95593}
+        - {x: -10.032654, y: -65.95593}
+        - {x: 1.9673462, y: -52.955933}
+        - {x: 1.9673462, y: -47.955933}
+        - {x: 49.967346, y: 19.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 4259
+        width: 406
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.41101, y: 57.044067}
+        - {x: -42.41101, y: 33.044067}
+        - {x: -42.41101, y: -56.955933}
+        - {x: 4.5889893, y: -56.955933}
+        - {x: 42.58899, y: 13.044067}
+        - {x: 42.58899, y: 51.044067}
+        - {x: 13.588989, y: 57.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 4259
+        width: 426
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.956726, y: 59.544067}
+        - {x: -12.043274, y: 59.544067}
+        - {x: -44.043274, y: 31.544067}
+        - {x: -44.043274, y: -36.455933}
+        - {x: -35.043274, y: -59.455933}
+        - {x: -3.043274, y: -59.455933}
+        - {x: 16.956726, y: -47.455933}
+        - {x: 45.956726, y: 13.544067}
+        - {x: 45.956726, y: 46.544067}
+    - name: Phoenix_Discovery_Sprite_Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 4259
+        width: 440
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.966553, y: 63.044067}
+        - {x: -45.966553, y: 42.044067}
+        - {x: -45.966553, y: -47.955933}
+        - {x: -31.966553, y: -62.955933}
+        - {x: 3.0334473, y: -62.955933}
+        - {x: 46.033447, y: -6.9559326}
+        - {x: 46.033447, y: 55.044067}
+        - {x: 36.033447, y: 63.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 4259
+        width: 455
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.553833, y: 66.04407}
+        - {x: -47.553833, y: 51.044067}
+        - {x: -47.553833, y: -65.95593}
+        - {x: 6.446167, y: -65.95593}
+        - {x: 49.446167, y: -8.955933}
+        - {x: 49.446167, y: 53.044067}
+        - {x: 38.446167, y: 66.04407}
+    - name: Phoenix_Discovery_Sprite_Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 5838
+        y: 4259
+        width: 364
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.477173, y: 50.044067}
+        - {x: -38.477173, y: 33.044067}
+        - {x: -38.477173, y: -35.955933}
+        - {x: -34.477173, y: -49.955933}
+        - {x: 0.52282715, y: -49.955933}
+        - {x: 20.522827, y: -39.955933}
+        - {x: 38.522827, y: 6.0440674}
+        - {x: 38.522827, y: 44.044067}
+        - {x: 28.522827, y: 50.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 6541
+        y: 4259
+        width: 378
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.064453, y: 52.544067}
+        - {x: -39.064453, y: 39.544067}
+        - {x: -39.064453, y: -44.455933}
+        - {x: -35.064453, y: -52.455933}
+        - {x: 8.935547, y: -52.455933}
+        - {x: 40.935547, y: 4.5440674}
+        - {x: 40.935547, y: 52.544067}
+    - name: Phoenix_Discovery_Sprite_Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 7240
+        y: 4532
+        width: 397
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.487793, y: 27.59552}
+        - {x: -41.487793, y: 2.59552}
+        - {x: -41.487793, y: -24.40448}
+        - {x: -40.487793, y: -27.40448}
+        - {x: 41.512207, y: -27.40448}
+        - {x: 41.512207, y: 11.59552}
+        - {x: 9.512207, y: 27.59552}
+    - name: Phoenix_Discovery_Sprite_Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 7939
+        y: 4546
+        width: 416
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.088989, y: 29.02124}
+        - {x: -12.911011, y: 29.02124}
+        - {x: -43.91101, y: 2.0212402}
+        - {x: -43.91101, y: -17.97876}
+        - {x: -32.91101, y: -28.97876}
+        - {x: 23.08899, y: -28.97876}
+        - {x: 44.08899, y: -15.97876}
+        - {x: 44.08899, y: 17.02124}
+        - {x: 43.08899, y: 21.02124}
+    - name: Phoenix_Discovery_Sprite_Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 8642
+        y: 4565
+        width: 431
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.501587, y: 30.991821}
+        - {x: -14.498413, y: 30.991821}
+        - {x: -45.498413, y: 0.9918213}
+        - {x: -45.498413, y: -17.008179}
+        - {x: -35.498413, y: -29.008179}
+        - {x: 31.501587, y: -29.008179}
+        - {x: 45.501587, y: -12.008179}
+        - {x: 45.501587, y: 14.991821}
+        - {x: 39.501587, y: 25.991821}
+    - name: Phoenix_Discovery_Sprite_Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 9341
+        y: 4584
+        width: 449
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.07837, y: 31.962463}
+        - {x: -19.92163, y: 31.962463}
+        - {x: -43.92163, y: 22.962463}
+        - {x: -46.92163, y: 16.962463}
+        - {x: -46.92163, y: -28.037537}
+        - {x: -40.92163, y: -30.037537}
+        - {x: 39.07837, y: -30.037537}
+        - {x: 41.07837, y: -29.037537}
+        - {x: 47.07837, y: -11.037537}
+        - {x: 47.07837, y: 21.962463}
+    - name: Phoenix_Discovery_Sprite_Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 7264
+        y: 4259
+        width: 196
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.47229, y: 27.044067}
+        - {x: -20.47229, y: 4.0440674}
+        - {x: -20.47229, y: -20.955933}
+        - {x: -14.47229, y: -26.955933}
+        - {x: 13.52771, y: -26.955933}
+        - {x: 20.52771, y: -18.955933}
+        - {x: 20.52771, y: 2.0440674}
+        - {x: 13.52771, y: 27.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 7963
+        y: 4259
+        width: 196
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.895508, y: 27.044067}
+        - {x: -20.895508, y: 9.044067}
+        - {x: -20.895508, y: -18.955933}
+        - {x: -16.895508, y: -26.955933}
+        - {x: 10.104492, y: -26.955933}
+        - {x: 21.104492, y: -15.955933}
+        - {x: 21.104492, y: -3.9559326}
+        - {x: 12.104492, y: 27.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 8666
+        y: 4259
+        width: 191
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.98291, y: 27.044067}
+        - {x: -19.98291, y: 11.044067}
+        - {x: -19.98291, y: -22.955933}
+        - {x: -17.98291, y: -26.955933}
+        - {x: 14.01709, y: -26.955933}
+        - {x: 20.01709, y: -23.955933}
+        - {x: 20.01709, y: 4.0440674}
+        - {x: 12.01709, y: 27.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 9365
+        y: 4259
+        width: 196
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.906128, y: 27.044067}
+        - {x: -20.906128, y: 5.0440674}
+        - {x: -20.906128, y: -15.955933}
+        - {x: -15.906128, y: -26.955933}
+        - {x: 14.093872, y: -26.955933}
+        - {x: 21.093872, y: -15.955933}
+        - {x: 21.093872, y: 5.0440674}
+        - {x: 11.093872, y: 27.044067}
+    - name: Phoenix_Discovery_Sprite_Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3900
+        width: 455
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.50898, y: 31.520386}
+        - {x: -47.50898, y: 3.5203857}
+        - {x: -47.50898, y: -23.479614}
+        - {x: -41.50898, y: -31.479614}
+        - {x: 33.49102, y: -31.479614}
+        - {x: 49.49102, y: -23.479614}
+        - {x: 49.49102, y: 15.520386}
+        - {x: 18.49102, y: 31.520386}
+    - name: Phoenix_Discovery_Sprite_Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3555
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.038368, y: 29.422424}
+        - {x: -10.038368, y: 23.422424}
+        - {x: -13.038368, y: 11.422424}
+        - {x: -20.038368, y: 1.4224243}
+        - {x: -20.038368, y: -27.577576}
+        - {x: 17.961632, y: -27.577576}
+        - {x: 21.961632, y: -22.577576}
+        - {x: 21.961632, y: 6.4224243}
+        - {x: 14.961632, y: 29.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3555
+        width: 191
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.083267, y: 29.922424}
+        - {x: -6.916733, y: 29.922424}
+        - {x: -10.916733, y: 26.922424}
+        - {x: -19.916733, y: -0.07757568}
+        - {x: -19.916733, y: -19.077576}
+        - {x: -7.916733, y: -28.077576}
+        - {x: 7.083267, y: -28.077576}
+        - {x: 13.083267, y: -24.077576}
+        - {x: 20.083267, y: -15.077576}
+        - {x: 20.083267, y: 13.922424}
+    - name: Phoenix_Discovery_Sprite_Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 3555
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.048981, y: 29.422424}
+        - {x: -20.04898, y: 10.422424}
+        - {x: -20.04898, y: -19.577576}
+        - {x: -10.048981, y: -27.577576}
+        - {x: 10.951019, y: -27.577576}
+        - {x: 21.95102, y: -18.577576}
+        - {x: 21.95102, y: 4.4224243}
+        - {x: 13.951019, y: 29.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 3555
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5277405, y: 29.422424}
+        - {x: -9.4722595, y: 29.422424}
+        - {x: -20.47226, y: 13.422424}
+        - {x: -20.47226, y: -24.577576}
+        - {x: -19.47226, y: -27.577576}
+        - {x: 13.5277405, y: -27.577576}
+        - {x: 20.52774, y: -14.577576}
+        - {x: 20.52774, y: 5.4224243}
+        - {x: 17.52774, y: 12.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 3555
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.895508, y: 29.422424}
+        - {x: -20.895508, y: 1.4224243}
+        - {x: -20.895508, y: -17.577576}
+        - {x: -10.895508, y: -27.577576}
+        - {x: 10.104492, y: -27.577576}
+        - {x: 21.104492, y: -16.577576}
+        - {x: 21.104492, y: 3.4224243}
+        - {x: 12.104492, y: 29.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 3555
+        width: 191
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.017151, y: 29.422424}
+        - {x: -11.982849, y: 29.422424}
+        - {x: -19.98285, y: 4.4224243}
+        - {x: -19.98285, y: -19.577576}
+        - {x: -8.982849, y: -27.577576}
+        - {x: 9.017151, y: -27.577576}
+        - {x: 20.01715, y: -18.577576}
+        - {x: 20.01715, y: 9.422424}
+        - {x: 19.01715, y: 14.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 3555
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.093872, y: 29.422424}
+        - {x: -8.906128, y: 29.422424}
+        - {x: -20.906128, y: 13.422424}
+        - {x: -20.906128, y: -24.577576}
+        - {x: -19.906128, y: -27.577576}
+        - {x: 12.093872, y: -27.577576}
+        - {x: 21.093872, y: -14.577576}
+        - {x: 21.093872, y: 5.4224243}
+        - {x: 11.093872, y: 28.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 3555
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.03833, y: 29.422424}
+        - {x: -10.03833, y: 23.422424}
+        - {x: -13.03833, y: 11.422424}
+        - {x: -20.03833, y: 1.4224243}
+        - {x: -20.03833, y: -27.577576}
+        - {x: 17.96167, y: -27.577576}
+        - {x: 21.96167, y: -22.577576}
+        - {x: 21.96167, y: 6.4224243}
+        - {x: 14.96167, y: 29.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 3555
+        width: 191
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.083252, y: 29.922424}
+        - {x: -6.916748, y: 29.922424}
+        - {x: -10.916748, y: 26.922424}
+        - {x: -19.916748, y: -0.07757568}
+        - {x: -19.916748, y: -19.077576}
+        - {x: -7.916748, y: -28.077576}
+        - {x: 7.083252, y: -28.077576}
+        - {x: 13.083252, y: -24.077576}
+        - {x: 20.083252, y: -15.077576}
+        - {x: 20.083252, y: 13.922424}
+    - name: Phoenix_Discovery_Sprite_Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 3555
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.04895, y: 29.422424}
+        - {x: -20.04895, y: 10.422424}
+        - {x: -20.04895, y: -19.577576}
+        - {x: -10.04895, y: -27.577576}
+        - {x: 10.95105, y: -27.577576}
+        - {x: 21.95105, y: -18.577576}
+        - {x: 21.95105, y: 4.4224243}
+        - {x: 13.95105, y: 29.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 7264
+        y: 3555
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.52771, y: 29.422424}
+        - {x: -9.47229, y: 29.422424}
+        - {x: -20.47229, y: 13.422424}
+        - {x: -20.47229, y: -24.577576}
+        - {x: -19.47229, y: -27.577576}
+        - {x: 13.52771, y: -27.577576}
+        - {x: 20.52771, y: -14.577576}
+        - {x: 20.52771, y: 5.4224243}
+        - {x: 17.52771, y: 12.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 7963
+        y: 3555
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.895508, y: 29.422424}
+        - {x: -20.895508, y: 1.4224243}
+        - {x: -20.895508, y: -17.577576}
+        - {x: -10.895508, y: -27.577576}
+        - {x: 10.104492, y: -27.577576}
+        - {x: 21.104492, y: -16.577576}
+        - {x: 21.104492, y: 3.4224243}
+        - {x: 12.104492, y: 29.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 8666
+        y: 3555
+        width: 191
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.01709, y: 29.422424}
+        - {x: -11.98291, y: 29.422424}
+        - {x: -19.98291, y: 4.4224243}
+        - {x: -19.98291, y: -19.577576}
+        - {x: -8.98291, y: -27.577576}
+        - {x: 9.01709, y: -27.577576}
+        - {x: 20.01709, y: -18.577576}
+        - {x: 20.01709, y: 9.422424}
+        - {x: 19.01709, y: 14.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 9365
+        y: 3555
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.093872, y: 29.422424}
+        - {x: -8.906128, y: 29.422424}
+        - {x: -20.906128, y: 13.422424}
+        - {x: -20.906128, y: -24.577576}
+        - {x: -19.906128, y: -27.577576}
+        - {x: 12.093872, y: -27.577576}
+        - {x: 21.093872, y: -14.577576}
+        - {x: 21.093872, y: 5.4224243}
+        - {x: 11.093872, y: 28.422424}
+    - name: Phoenix_Discovery_Sprite_Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2857
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.038368, y: 28.054688}
+        - {x: -20.038368, y: 3.0546875}
+        - {x: -20.038368, y: -17.945312}
+        - {x: -10.038368, y: -27.945312}
+        - {x: 16.961632, y: -27.945312}
+        - {x: 21.961632, y: -19.945312}
+        - {x: 21.961632, y: 14.0546875}
+        - {x: 15.961632, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2857
+        width: 201
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.416733, y: 28.054688}
+        - {x: -21.416733, y: 2.0546875}
+        - {x: -21.416733, y: -20.945312}
+        - {x: -14.416733, y: -27.945312}
+        - {x: 9.583267, y: -27.945312}
+        - {x: 20.583267, y: -17.945312}
+        - {x: 20.583267, y: -2.9453125}
+        - {x: 10.583267, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2857
+        width: 192
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.0489807, y: 28.054688}
+        - {x: -20.04898, y: 6.0546875}
+        - {x: -20.04898, y: -22.945312}
+        - {x: -18.04898, y: -27.945312}
+        - {x: 14.951019, y: -27.945312}
+        - {x: 21.95102, y: -18.945312}
+        - {x: 21.95102, y: 20.054688}
+        - {x: 14.951019, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2857
+        width: 201
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5277405, y: 28.054688}
+        - {x: -13.4722595, y: 28.054688}
+        - {x: -21.47226, y: 7.0546875}
+        - {x: -21.47226, y: -22.945312}
+        - {x: -15.4722595, y: -27.945312}
+        - {x: 13.5277405, y: -27.945312}
+        - {x: 21.52774, y: -13.9453125}
+        - {x: 21.52774, y: 2.0546875}
+    - name: Phoenix_Discovery_Sprite_Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 2857
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.895508, y: 28.054688}
+        - {x: -20.895508, y: 0.0546875}
+        - {x: -20.895508, y: -18.945312}
+        - {x: -11.895508, y: -27.945312}
+        - {x: 10.104492, y: -27.945312}
+        - {x: 21.104492, y: -17.945312}
+        - {x: 21.104492, y: -1.9453125}
+        - {x: 12.104492, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 2857
+        width: 191
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.982849, y: 28.054688}
+        - {x: -19.98285, y: 7.0546875}
+        - {x: -19.98285, y: -19.945312}
+        - {x: -16.98285, y: -27.945312}
+        - {x: 18.01715, y: -27.945312}
+        - {x: 20.01715, y: -17.945312}
+        - {x: 20.01715, y: 2.0546875}
+        - {x: 10.017151, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 2857
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.906128, y: 28.054688}
+        - {x: -14.906128, y: 22.054688}
+        - {x: -20.906128, y: -2.9453125}
+        - {x: -20.906128, y: -17.945312}
+        - {x: -10.906128, y: -27.945312}
+        - {x: 10.093872, y: -27.945312}
+        - {x: 21.093872, y: -17.945312}
+        - {x: 21.093872, y: 14.0546875}
+        - {x: 10.093872, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 2857
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.03833, y: 28.054688}
+        - {x: -20.03833, y: 3.0546875}
+        - {x: -20.03833, y: -17.945312}
+        - {x: -10.03833, y: -27.945312}
+        - {x: 16.96167, y: -27.945312}
+        - {x: 21.96167, y: -19.945312}
+        - {x: 21.96167, y: 14.0546875}
+        - {x: 15.96167, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 2857
+        width: 201
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.416748, y: 28.054688}
+        - {x: -21.416748, y: 2.0546875}
+        - {x: -21.416748, y: -20.945312}
+        - {x: -14.416748, y: -27.945312}
+        - {x: 9.583252, y: -27.945312}
+        - {x: 20.583252, y: -17.945312}
+        - {x: 20.583252, y: -2.9453125}
+        - {x: 10.583252, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 2857
+        width: 192
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.04895, y: 28.054688}
+        - {x: -20.04895, y: 6.0546875}
+        - {x: -20.04895, y: -22.945312}
+        - {x: -18.04895, y: -27.945312}
+        - {x: 14.95105, y: -27.945312}
+        - {x: 21.95105, y: -18.945312}
+        - {x: 21.95105, y: 20.054688}
+        - {x: 14.95105, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 7264
+        y: 2857
+        width: 201
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.52771, y: 28.054688}
+        - {x: -13.47229, y: 28.054688}
+        - {x: -21.47229, y: 7.0546875}
+        - {x: -21.47229, y: -22.945312}
+        - {x: -15.47229, y: -27.945312}
+        - {x: 13.52771, y: -27.945312}
+        - {x: 21.52771, y: -13.9453125}
+        - {x: 21.52771, y: 2.0546875}
+    - name: Phoenix_Discovery_Sprite_Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 7963
+        y: 2857
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.895508, y: 28.054688}
+        - {x: -20.895508, y: 0.0546875}
+        - {x: -20.895508, y: -18.945312}
+        - {x: -11.895508, y: -27.945312}
+        - {x: 10.104492, y: -27.945312}
+        - {x: 21.104492, y: -17.945312}
+        - {x: 21.104492, y: -1.9453125}
+        - {x: 12.104492, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 8666
+        y: 2857
+        width: 191
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.98291, y: 28.054688}
+        - {x: -19.98291, y: 7.0546875}
+        - {x: -19.98291, y: -19.945312}
+        - {x: -16.98291, y: -27.945312}
+        - {x: 18.01709, y: -27.945312}
+        - {x: 20.01709, y: -17.945312}
+        - {x: 20.01709, y: 2.0546875}
+        - {x: 10.01709, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 9365
+        y: 2857
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.906128, y: 28.054688}
+        - {x: -14.906128, y: 22.054688}
+        - {x: -20.906128, y: -2.9453125}
+        - {x: -20.906128, y: -17.945312}
+        - {x: -10.906128, y: -27.945312}
+        - {x: 10.093872, y: -27.945312}
+        - {x: 21.093872, y: -17.945312}
+        - {x: 21.093872, y: 14.0546875}
+        - {x: 10.093872, y: 28.054688}
+    - name: Phoenix_Discovery_Sprite_Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2158
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.038368, y: 28.977966}
+        - {x: -17.038368, y: 11.977966}
+        - {x: -20.038368, y: -6.0220337}
+        - {x: -20.038368, y: -12.022034}
+        - {x: -17.038368, y: -15.022034}
+        - {x: -11.038368, y: -24.022034}
+        - {x: -8.038368, y: -27.022034}
+        - {x: 11.961632, y: -27.022034}
+        - {x: 21.961632, y: -18.022034}
+        - {x: 21.961632, y: 17.977966}
+        - {x: 9.961632, y: 28.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2158
+        width: 191
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.916733, y: -22.022034}
+        - {x: -17.916733, y: -27.022034}
+        - {x: 15.083267, y: -27.022034}
+        - {x: 20.083267, y: -25.022034}
+        - {x: 20.083267, y: 15.977966}
+        - {x: 14.083267, y: 28.977966}
+        - {x: -10.916733, y: 28.977966}
+        - {x: -19.916733, y: 12.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2158
+        width: 192
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.04898, y: 28.977966}
+        - {x: -20.04898, y: -25.022034}
+        - {x: -19.04898, y: -27.022034}
+        - {x: 14.951019, y: -27.022034}
+        - {x: 21.95102, y: -23.022034}
+        - {x: 21.95102, y: 23.977966}
+        - {x: 11.951019, y: 28.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2158
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.4722595, y: 28.977966}
+        - {x: -20.47226, y: 1.9779663}
+        - {x: -20.47226, y: -19.022034}
+        - {x: -12.4722595, y: -27.022034}
+        - {x: 19.52774, y: -27.022034}
+        - {x: 20.52774, y: -23.022034}
+        - {x: 20.52774, y: 13.977966}
+        - {x: 13.5277405, y: 28.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 2158
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.104492, y: 28.977966}
+        - {x: -12.895508, y: 28.977966}
+        - {x: -20.895508, y: 3.9779663}
+        - {x: -20.895508, y: -19.022034}
+        - {x: -11.895508, y: -27.022034}
+        - {x: 9.104492, y: -27.022034}
+        - {x: 21.104492, y: -15.022034}
+        - {x: 21.104492, y: -3.0220337}
+        - {x: 11.104492, y: 27.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 2158
+        width: 191
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.982849, y: 28.977966}
+        - {x: -19.98285, y: 20.977966}
+        - {x: -19.98285, y: -18.022034}
+        - {x: -13.982849, y: -27.022034}
+        - {x: 12.017151, y: -27.022034}
+        - {x: 20.01715, y: -20.022034}
+        - {x: 20.01715, y: 27.977966}
+        - {x: 17.01715, y: 28.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 2158
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.093872, y: 28.977966}
+        - {x: -13.906128, y: 28.977966}
+        - {x: -20.906128, y: 10.977966}
+        - {x: -20.906128, y: -15.022034}
+        - {x: -10.906128, y: -27.022034}
+        - {x: 10.093872, y: -27.022034}
+        - {x: 21.093872, y: -19.022034}
+        - {x: 21.093872, y: 0.9779663}
+    - name: Phoenix_Discovery_Sprite_Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 2158
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.03833, y: 28.977966}
+        - {x: -17.03833, y: 11.977966}
+        - {x: -20.03833, y: -6.0220337}
+        - {x: -20.03833, y: -12.022034}
+        - {x: -17.03833, y: -15.022034}
+        - {x: -11.03833, y: -24.022034}
+        - {x: -8.03833, y: -27.022034}
+        - {x: 11.96167, y: -27.022034}
+        - {x: 21.96167, y: -18.022034}
+        - {x: 21.96167, y: 17.977966}
+        - {x: 9.96167, y: 28.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 2158
+        width: 191
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.916748, y: -22.022034}
+        - {x: -17.916748, y: -27.022034}
+        - {x: 15.083252, y: -27.022034}
+        - {x: 20.083252, y: -25.022034}
+        - {x: 20.083252, y: 15.977966}
+        - {x: 14.083252, y: 28.977966}
+        - {x: -10.916748, y: 28.977966}
+        - {x: -19.916748, y: 12.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 2158
+        width: 192
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.04895, y: 28.977966}
+        - {x: -20.04895, y: -25.022034}
+        - {x: -19.04895, y: -27.022034}
+        - {x: 14.95105, y: -27.022034}
+        - {x: 21.95105, y: -23.022034}
+        - {x: 21.95105, y: 23.977966}
+        - {x: 11.95105, y: 28.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 7264
+        y: 2158
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.47229, y: 28.977966}
+        - {x: -20.47229, y: 1.9779663}
+        - {x: -20.47229, y: -19.022034}
+        - {x: -12.47229, y: -27.022034}
+        - {x: 19.52771, y: -27.022034}
+        - {x: 20.52771, y: -23.022034}
+        - {x: 20.52771, y: 13.977966}
+        - {x: 13.52771, y: 28.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 7963
+        y: 2158
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.104492, y: 28.977966}
+        - {x: -12.895508, y: 28.977966}
+        - {x: -20.895508, y: 3.9779663}
+        - {x: -20.895508, y: -19.022034}
+        - {x: -11.895508, y: -27.022034}
+        - {x: 9.104492, y: -27.022034}
+        - {x: 21.104492, y: -15.022034}
+        - {x: 21.104492, y: -3.0220337}
+        - {x: 11.104492, y: 27.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 8666
+        y: 2158
+        width: 191
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.98291, y: 28.977966}
+        - {x: -19.98291, y: 20.977966}
+        - {x: -19.98291, y: -18.022034}
+        - {x: -13.98291, y: -27.022034}
+        - {x: 12.01709, y: -27.022034}
+        - {x: 20.01709, y: -20.022034}
+        - {x: 20.01709, y: 27.977966}
+        - {x: 17.01709, y: 28.977966}
+    - name: Phoenix_Discovery_Sprite_Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 9365
+        y: 2158
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.093872, y: 28.977966}
+        - {x: -13.906128, y: 28.977966}
+        - {x: -20.906128, y: 10.977966}
+        - {x: -20.906128, y: -15.022034}
+        - {x: -10.906128, y: -27.022034}
+        - {x: 10.093872, y: -27.022034}
+        - {x: 21.093872, y: -19.022034}
+        - {x: 21.093872, y: 0.9779663}
+    - name: Phoenix_Discovery_Sprite_Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1459
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.038368, y: 28.901215}
+        - {x: -20.038368, y: 6.9012146}
+        - {x: -20.038368, y: -22.098785}
+        - {x: -16.038368, y: -27.098785}
+        - {x: 14.961632, y: -27.098785}
+        - {x: 21.961632, y: -16.098785}
+        - {x: 21.961632, y: 1.9012146}
+        - {x: 14.961632, y: 28.901215}
+    - name: Phoenix_Discovery_Sprite_Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1455
+        width: 191
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.916733, y: 28.065308}
+        - {x: -19.916733, y: -0.9346924}
+        - {x: -19.916733, y: -16.934692}
+        - {x: -11.916733, y: -27.934692}
+        - {x: 18.083267, y: -27.934692}
+        - {x: 20.083267, y: -24.934692}
+        - {x: 20.083267, y: 12.065308}
+        - {x: 9.083267, y: 28.065308}
+    - name: Phoenix_Discovery_Sprite_Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1459
+        width: 192
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.048981, y: 28.901215}
+        - {x: -20.04898, y: -3.0987854}
+        - {x: -20.04898, y: -15.098785}
+        - {x: -10.048981, y: -27.098785}
+        - {x: 10.951019, y: -27.098785}
+        - {x: 21.95102, y: -19.098785}
+        - {x: 21.95102, y: 8.901215}
+        - {x: 15.951019, y: 28.901215}
+    - name: Phoenix_Discovery_Sprite_Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1459
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.4722595, y: 28.901215}
+        - {x: -20.47226, y: 9.901215}
+        - {x: -20.47226, y: -20.098785}
+        - {x: -17.47226, y: -27.098785}
+        - {x: 13.5277405, y: -27.098785}
+        - {x: 20.52774, y: -16.098785}
+        - {x: 20.52774, y: 9.901215}
+        - {x: 12.5277405, y: 28.901215}
+    - name: Phoenix_Discovery_Sprite_Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 1455
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.104492, y: 28.065308}
+        - {x: -13.895508, y: 28.065308}
+        - {x: -20.895508, y: 4.0653076}
+        - {x: -20.895508, y: -21.934692}
+        - {x: -16.895508, y: -27.934692}
+        - {x: 15.104492, y: -27.934692}
+        - {x: 21.104492, y: -18.934692}
+        - {x: 21.104492, y: -1.9346924}
+        - {x: 11.104492, y: 27.065308}
+    - name: Phoenix_Discovery_Sprite_Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 1459
+        width: 191
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.982849, y: 28.901215}
+        - {x: -19.98285, y: 8.901215}
+        - {x: -19.98285, y: -24.098785}
+        - {x: -18.98285, y: -27.098785}
+        - {x: 13.017151, y: -27.098785}
+        - {x: 20.01715, y: -20.098785}
+        - {x: 20.01715, y: 7.9012146}
+        - {x: 16.01715, y: 28.901215}
+    - name: Phoenix_Discovery_Sprite_Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 1459
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.906128, y: 29.401215}
+        - {x: -20.906128, y: 4.4012146}
+        - {x: -20.906128, y: -19.598785}
+        - {x: -10.906128, y: -27.598785}
+        - {x: 10.093872, y: -27.598785}
+        - {x: 21.093872, y: -18.598785}
+        - {x: 21.093872, y: 3.4012146}
+        - {x: 15.093872, y: 29.401215}
+    - name: Phoenix_Discovery_Sprite_Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 1459
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.03833, y: 28.901215}
+        - {x: -20.03833, y: 6.9012146}
+        - {x: -20.03833, y: -22.098785}
+        - {x: -16.03833, y: -27.098785}
+        - {x: 14.96167, y: -27.098785}
+        - {x: 21.96167, y: -16.098785}
+        - {x: 21.96167, y: 1.9012146}
+        - {x: 14.96167, y: 28.901215}
+    - name: Phoenix_Discovery_Sprite_Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 1455
+        width: 191
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.916748, y: 28.065308}
+        - {x: -19.916748, y: -0.9346924}
+        - {x: -19.916748, y: -16.934692}
+        - {x: -11.916748, y: -27.934692}
+        - {x: 18.083252, y: -27.934692}
+        - {x: 20.083252, y: -24.934692}
+        - {x: 20.083252, y: 12.065308}
+        - {x: 9.083252, y: 28.065308}
+    - name: Phoenix_Discovery_Sprite_Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 1459
+        width: 192
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.04895, y: 28.901215}
+        - {x: -20.04895, y: -3.0987854}
+        - {x: -20.04895, y: -15.098785}
+        - {x: -10.04895, y: -27.098785}
+        - {x: 10.95105, y: -27.098785}
+        - {x: 21.95105, y: -19.098785}
+        - {x: 21.95105, y: 8.901215}
+        - {x: 15.95105, y: 28.901215}
+    - name: Phoenix_Discovery_Sprite_Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 7264
+        y: 1459
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.47229, y: 28.901215}
+        - {x: -20.47229, y: 9.901215}
+        - {x: -20.47229, y: -20.098785}
+        - {x: -17.47229, y: -27.098785}
+        - {x: 13.52771, y: -27.098785}
+        - {x: 20.52771, y: -16.098785}
+        - {x: 20.52771, y: 9.901215}
+        - {x: 12.52771, y: 28.901215}
+    - name: Phoenix_Discovery_Sprite_Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 7963
+        y: 1455
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.104492, y: 28.065308}
+        - {x: -13.895508, y: 28.065308}
+        - {x: -20.895508, y: 4.0653076}
+        - {x: -20.895508, y: -21.934692}
+        - {x: -16.895508, y: -27.934692}
+        - {x: 15.104492, y: -27.934692}
+        - {x: 21.104492, y: -18.934692}
+        - {x: 21.104492, y: -1.9346924}
+        - {x: 11.104492, y: 27.065308}
+    - name: Phoenix_Discovery_Sprite_Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 8666
+        y: 1459
+        width: 191
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.98291, y: 28.901215}
+        - {x: -19.98291, y: 8.901215}
+        - {x: -19.98291, y: -24.098785}
+        - {x: -18.98291, y: -27.098785}
+        - {x: 13.01709, y: -27.098785}
+        - {x: 20.01709, y: -20.098785}
+        - {x: 20.01709, y: 7.9012146}
+        - {x: 16.01709, y: 28.901215}
+    - name: Phoenix_Discovery_Sprite_Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 9365
+        y: 1459
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.906128, y: 29.401215}
+        - {x: -20.906128, y: 4.4012146}
+        - {x: -20.906128, y: -19.598785}
+        - {x: -10.906128, y: -27.598785}
+        - {x: 10.093872, y: -27.598785}
+        - {x: 21.093872, y: -18.598785}
+        - {x: 21.093872, y: 3.4012146}
+        - {x: 15.093872, y: 29.401215}
+    - name: Phoenix_Discovery_Sprite_Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 756
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.038368, y: 28.988571}
+        - {x: -20.038368, y: 22.988571}
+        - {x: -20.038368, y: -27.011429}
+        - {x: 16.961632, y: -27.011429}
+        - {x: 21.961632, y: -21.011429}
+        - {x: 21.961632, y: 9.988571}
+        - {x: 16.961632, y: 28.988571}
+    - name: Phoenix_Discovery_Sprite_Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 756
+        width: 191
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.083267, y: 28.988571}
+        - {x: -10.916733, y: 28.988571}
+        - {x: -19.916733, y: 3.9885712}
+        - {x: -19.916733, y: -24.011429}
+        - {x: -17.916733, y: -27.011429}
+        - {x: 16.083267, y: -27.011429}
+        - {x: 20.083267, y: -21.011429}
+        - {x: 20.083267, y: 8.988571}
+        - {x: 16.083267, y: 24.988571}
+    - name: Phoenix_Discovery_Sprite_Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 756
+        width: 192
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.048981, y: 28.988571}
+        - {x: -20.04898, y: 2.9885712}
+        - {x: -20.04898, y: -18.011429}
+        - {x: -10.048981, y: -27.011429}
+        - {x: 11.951019, y: -27.011429}
+        - {x: 21.95102, y: -21.011429}
+        - {x: 21.95102, y: 9.988571}
+        - {x: 13.951019, y: 28.988571}
+    - name: Phoenix_Discovery_Sprite_Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 756
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5277405, y: 27.988571}
+        - {x: 8.5277405, y: 28.988571}
+        - {x: -8.4722595, y: 28.988571}
+        - {x: -11.4722595, y: 23.988571}
+        - {x: -14.4722595, y: 11.988571}
+        - {x: -20.47226, y: -1.0114288}
+        - {x: -20.47226, y: -15.011429}
+        - {x: -9.4722595, y: -27.011429}
+        - {x: 10.5277405, y: -27.011429}
+        - {x: 20.52774, y: -15.011429}
+        - {x: 20.52774, y: -2.0114288}
+        - {x: 15.5277405, y: 11.988571}
+    - name: Phoenix_Discovery_Sprite_Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 756
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.895508, y: 28.988571}
+        - {x: -20.895508, y: 10.988571}
+        - {x: -20.895508, y: -22.011429}
+        - {x: -16.895508, y: -27.011429}
+        - {x: 16.104492, y: -27.011429}
+        - {x: 21.104492, y: -21.011429}
+        - {x: 21.104492, y: 9.988571}
+        - {x: 12.104492, y: 28.988571}
+    - name: Phoenix_Discovery_Sprite_Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 756
+        width: 191
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.982849, y: 28.988571}
+        - {x: -10.982849, y: 23.988571}
+        - {x: -16.98285, y: 10.988571}
+        - {x: -19.98285, y: 1.9885712}
+        - {x: -19.98285, y: -15.011429}
+        - {x: -12.982849, y: -23.011429}
+        - {x: -8.982849, y: -27.011429}
+        - {x: 11.017151, y: -27.011429}
+        - {x: 20.01715, y: -21.011429}
+        - {x: 20.01715, y: 5.988571}
+        - {x: 11.017151, y: 28.988571}
+    - name: Phoenix_Discovery_Sprite_Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 756
+        width: 201
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.45105, y: -16.011429}
+        - {x: -15.45105, y: -27.011429}
+        - {x: 14.54895, y: -27.011429}
+        - {x: 21.54895, y: -24.011429}
+        - {x: 21.54895, y: 14.988571}
+        - {x: 14.54895, y: 28.988571}
+        - {x: -10.45105, y: 28.988571}
+        - {x: -21.45105, y: 16.988571}
+    - name: Phoenix_Discovery_Sprite_Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 756
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.03833, y: 28.988571}
+        - {x: -20.03833, y: 22.988571}
+        - {x: -20.03833, y: -27.011429}
+        - {x: 16.96167, y: -27.011429}
+        - {x: 21.96167, y: -21.011429}
+        - {x: 21.96167, y: 9.988571}
+        - {x: 16.96167, y: 28.988571}
+    - name: Phoenix_Discovery_Sprite_Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 756
+        width: 191
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.083252, y: 28.988571}
+        - {x: -10.916748, y: 28.988571}
+        - {x: -19.916748, y: 3.9885712}
+        - {x: -19.916748, y: -24.011429}
+        - {x: -17.916748, y: -27.011429}
+        - {x: 16.083252, y: -27.011429}
+        - {x: 20.083252, y: -21.011429}
+        - {x: 20.083252, y: 8.988571}
+        - {x: 16.083252, y: 24.988571}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
