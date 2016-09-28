@@ -36,6 +36,15 @@ public class PlayerMenu : MonoBehaviour
         ingredient_menu.transform.localPosition = offscreen;
     }
 
+	public void Hide_Adder(){
+		this.transform.localPosition = offscreen;
+	}
+
+	public void Show_Adder()
+	{
+		this.transform.localPosition = new Vector3(0, -40, 0);
+	}
+
     public void Show_Monsters()
     {
         Update_Monsters();
