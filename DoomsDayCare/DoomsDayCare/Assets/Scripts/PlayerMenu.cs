@@ -10,6 +10,9 @@ public class PlayerMenu : MonoBehaviour
     public GameObject ingredient_menu;
     public GameObject monster_menu;
 
+    public GameObject ingredient_menu_panel;
+    public GameObject monster_menu_panel;
+
     private Vector3 onscreen;
     private Vector3 offscreen = new Vector3(1000, 1000, 0);
 
@@ -58,11 +61,11 @@ public class PlayerMenu : MonoBehaviour
 
     private void Update_Monsters()
     {
-        int child_count = GameObject.Find("Monster_Menu_Panel").transform.childCount;
+        int child_count = monster_menu_panel.transform.childCount;
         GameObject[] monster_panel = new GameObject[child_count];
         for (int i = 0; i < child_count; i++)
         {
-            monster_panel[i] = GameObject.Find("Monster_Menu_Panel").transform.GetChild(i).gameObject;
+            monster_panel[i] = monster_menu_panel.transform.GetChild(i).gameObject;
         }
 
         List<Monster> monsters = player.GetComponent<Player>().monsters;
@@ -84,11 +87,11 @@ public class PlayerMenu : MonoBehaviour
 
     private void Update_Ingredients()
     {
-        int child_count = GameObject.Find("Ingredient_Menu_Panel").transform.childCount;
+        int child_count = ingredient_menu_panel.transform.childCount;
         GameObject[] ingredient_panel = new GameObject[child_count];
         for(int i = 0; i < child_count; i++)
         {
-            ingredient_panel[i] = GameObject.Find("Ingredient_Menu_Panel").transform.GetChild(i).gameObject;
+            ingredient_panel[i] = ingredient_menu_panel.transform.GetChild(i).gameObject;
         }
 
         Dictionary<Ingredient, int> ing = player.GetComponent<Player>().ingredients;
