@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\Ingredient.cs" />
      <Compile Include="Assets\Scripts\IngredientList.cs" />
      <Compile Include="Assets\Scripts\Monster.cs" />
+     <Compile Include="Assets\Scripts\MonsterInteraction.cs" />
      <Compile Include="Assets\Scripts\MonsterList.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerMenu.cs" />
