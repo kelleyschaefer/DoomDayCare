@@ -35,6 +35,9 @@ public class Player : MonoBehaviour
         ingredients.Add(ingredient_list[0], 1);
         ingredients.Add(ingredient_list[4], 1);
         ingredients.Add(ingredient_list[5], 1);
+        ingredients.Add(ingredient_list[1], 1);
+        ingredients.Add(ingredient_list[2], 1);
+        ingredients.Add(ingredient_list[6], 1);
     }
 
     public void Open_Menu()

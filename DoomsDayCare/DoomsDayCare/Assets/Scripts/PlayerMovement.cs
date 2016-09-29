@@ -54,6 +54,7 @@ public class PlayerMovement : MonoBehaviour
     private void Close_Cauldron()
     {
         mixing_menu.transform.localPosition = new Vector3(1000, 1000, 0);
+        mixing_menu.GetComponent<Cauldron>().discovery_modal.SetActive(false);
     }
 
     private void Reset_Triggers()
