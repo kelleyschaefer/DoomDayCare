@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class Cauldron : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class Cauldron : MonoBehaviour
 	public GameObject IngredientList;
     public GameObject Monster_World_Prefab;
     public GameObject monster_dialog_box;
+
 
 	public Ingredient[] currentIngredients = new Ingredient[3];
 	private int lastIngredient;
@@ -31,6 +33,8 @@ public class Cauldron : MonoBehaviour
 		}
 		currentIngredients [lastIngredient] = IngredientList.GetComponent<IngredientList>().ingredients[ingIndex];
 		lastIngredient++;
+		showIngredients ();
+
 	}
 
 	public void showIngredients(){
@@ -38,6 +42,24 @@ public class Cauldron : MonoBehaviour
 		GameObject ing2 = GameObject.Find ("Ingredient2");
 		GameObject ing3 = GameObject.Find ("Ingredient3");
 
+		if (!ing1.GetComponentInChildren<Image> ().IsActive()) {
+			ing1.GetComponentInChildren<Image> ().sprite = currentIngredients [0].Ingredient_Image;
+			ing1.GetComponentInChildren<Image> ().gameObject.SetActive (true);
+		} else {
+			ing1.GetComponentInChildren<Image> ().sprite = currentIngredients [0].Ingredient_Image;
+		}
+		if (!ing2.GetComponentInChildren<Image> ().IsActive()) {
+			ing2.GetComponentInChildren<Image> ().sprite = currentIngredients [1].Ingredient_Image;
+			ing1.GetComponentInChildren<Image> ().gameObject.SetActive (true);
+		} else {
+			ing2.GetComponentInChildren<Image> ().sprite = currentIngredients [1].Ingredient_Image;
+		}
+		if (!ing3.GetComponentInChildren<Image> ().IsActive()) {
+			ing3.GetComponentInChildren<Image> ().sprite = currentIngredients [2].Ingredient_Image;
+			ing1.GetComponentInChildren<Image> ().gameObject.SetActive (true);
+		} else {
+			ing3.GetComponentInChildren<Image> ().sprite = currentIngredients [2].Ingredient_Image;
+		}
 	}
 
     private void Add_Monster_To_World(Monster m)
